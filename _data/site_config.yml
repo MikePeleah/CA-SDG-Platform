@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: Central Asia 
+  adjective: Central Asian
 create_goals:
   previous_next_links: false
   goal_content_heading: ''
@@ -56,9 +56,9 @@ disclaimer:
   message: ''
   hidden: false
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: mihail.peleah@undp.org
+  suggestions: mihail.peleah@undp.org
+  functional: mihail.peleah@undp.org
 empty_metadata_placeholder: ''
 empty_metadata_placeholder_sources: ''
 environment: staging
@@ -66,10 +66,8 @@ footer_language_toggle: none
 footer_menu:
   - path: /contact-us
     translation_key: menu.contact_us
-  - path: 'https://twitter.com/MyTwitterAccount'
+  - path: 'https://twitter.com/UNDPEurasia'
     translation_key: general.twitter
-  - path: 'https://facebook.com/MyFacebookAccount'
-    translation_key: general.facebook
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
 frontpage_cards:
@@ -96,8 +94,8 @@ frontpage_cards:
     button_link: 'https://example.com'
     rule_color: ''
 frontpage_goals_grid:
-  title: frontpage.heading_short
-  description: frontpage.instructions_shorter
+  title: Central Asia Sustainable Development Goal indicators
+  description: Browse goals for indicator data
 frontpage_introduction_banner:
   title: frontpage.intro_title
   description: frontpage.intro_body
@@ -197,6 +195,9 @@ metadata_tabs:
   - scope: national
     title: indicator.national_metadata
     description: indicator.national_metadata_blurb
+  - scope: regional
+    title: indicator.regional_metadata
+    description: indicator.regional_metadata_blurb
   - scope: global
     title: indicator.global_metadata
     description: indicator.global_metadata_blurb
