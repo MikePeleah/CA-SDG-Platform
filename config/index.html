@@ -129,7 +129,7 @@ var translations = {
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/CA-SDG-Platform/assets/css/style.css?v=20230403192214">
+        <link rel="stylesheet" href="/CA-SDG-Platform/assets/css/style.css?v=20230403204107">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -165,7 +165,7 @@ layout-config-builder
   <div class="disclaimer-alert">
     <strong class="phase-tag">Alpha</strong>
     
-    This is a development website. We welcome your <a href="mailto:test@example.com">feedback</a>.
+    This is a development website. We welcome your <a href="mailto:mihail.peleah@undp.org">feedback</a>.
     
   </div>
 </div>
@@ -522,7 +522,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('country', {"name":"Australia","adjective":"Australian"});
+        var currentValue = normalizeCurrentValue('country', {"name":"Central Asia","adjective":"Central Asian"});
         var propertyEditor = editor.getEditor('root.country');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -662,7 +662,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('email_contacts', {"questions":"test@example.com","suggestions":"test@example.com","functional":"test@example.com"});
+        var currentValue = normalizeCurrentValue('email_contacts', {"questions":"mihail.peleah@undp.org","suggestions":"mihail.peleah@undp.org","functional":"mihail.peleah@undp.org"});
         var propertyEditor = editor.getEditor('root.email_contacts');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -744,7 +744,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('footer_menu', [{"path":"/contact-us","translation_key":"menu.contact_us"},{"path":"https://twitter.com/MyTwitterAccount","translation_key":"general.twitter"},{"path":"https://facebook.com/MyFacebookAccount","translation_key":"general.facebook"},{"path":"/about/cookies-and-privacy/","translation_key":"menu.cookies"}]);
+        var currentValue = normalizeCurrentValue('footer_menu', [{"path":"/contact-us","translation_key":"menu.contact_us"},{"path":"https://twitter.com/UNDPEurasia","translation_key":"general.twitter"},{"path":"/about/cookies-and-privacy/","translation_key":"menu.cookies"}]);
         var propertyEditor = editor.getEditor('root.footer_menu');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -772,7 +772,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('frontpage_goals_grid', {"title":"frontpage.heading_short","description":"frontpage.instructions_shorter"});
+        var currentValue = normalizeCurrentValue('frontpage_goals_grid', {"title":"Central Asia Sustainable Development Goal indicators","description":"Browse goals for indicator data"});
         var propertyEditor = editor.getEditor('root.frontpage_goals_grid');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -1174,7 +1174,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('metadata_tabs', [{"scope":"national","title":"indicator.national_metadata","description":"indicator.national_metadata_blurb"},{"scope":"global","title":"indicator.global_metadata","description":"indicator.global_metadata_blurb"},{"scope":"sources","title":"indicator.sources","description":""}]);
+        var currentValue = normalizeCurrentValue('metadata_tabs', [{"scope":"national","title":"indicator.national_metadata","description":"indicator.national_metadata_blurb"},{"scope":"regional","title":"indicator.regional_metadata","description":"indicator.regional_metadata_blurb"},{"scope":"global","title":"indicator.global_metadata","description":"indicator.global_metadata_blurb"},{"scope":"sources","title":"indicator.sources","description":""}]);
         var propertyEditor = editor.getEditor('root.metadata_tabs');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -1441,12 +1441,7 @@ data-event-label="high"
                         </li>
                         <li>
                             
-                            <a href="https://twitter.com/MyTwitterAccount" target="_blank">Twitter</a>
-                            
-                        </li>
-                        <li>
-                            
-                            <a href="https://facebook.com/MyFacebookAccount" target="_blank">Facebook</a>
+                            <a href="https://twitter.com/UNDPEurasia" target="_blank">Twitter</a>
                             
                         </li>
                         <li>
@@ -1493,12 +1488,12 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Search';</script>
 
-<script src='/CA-SDG-Platform/assets/js/sdg.js?v=20230403192214'></script>
+<script src='/CA-SDG-Platform/assets/js/sdg.js?v=20230403204107'></script>
 
 
     
     
-    <script src="/CA-SDG-Platform/assets/js/custom.js?v=20230403192214"></script><script>
+    <script src="/CA-SDG-Platform/assets/js/custom.js?v=20230403204107"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>
