@@ -37,3 +37,7 @@ exclude:
   - README.md
   - LICENSE
 
+languages:
+  - en
+  - ru
+
