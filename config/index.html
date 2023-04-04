@@ -129,7 +129,7 @@ var translations = {
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/CA-SDG-Platform/assets/css/style.css?v=20230404185513">
+        <link rel="stylesheet" href="/CA-SDG-Platform/assets/css/style.css?v=20230404210821">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -185,7 +185,21 @@ layout-config-builder
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav" id="menu"><li class="nav-item ">
     <a class="nav-link" href="/CA-SDG-Platform/goals">Goals</a>
-</li><li class="nav-item ">
+</li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="dropdown-about-centralasia" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    about.centralasia
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="dropdown-about-centralasia"><li class=" ">
+    <a class="dropdown-item" href="/CA-SDG-Platform/central-asia-kaz">about.centralasia.kaz</a>
+</li><li class=" ">
+    <a class="dropdown-item" href="/CA-SDG-Platform/central-asia-kgz">about.centralasia.kgz</a>
+</li><li class=" ">
+    <a class="dropdown-item" href="/CA-SDG-Platform/central-asia-tjk">about.centralasia.tjk</a>
+</li><li class=" ">
+    <a class="dropdown-item" href="/CA-SDG-Platform/central-asia-tkm">about.centralasia.tkm</a>
+</li><li class=" ">
+    <a class="dropdown-item" href="/CA-SDG-Platform/central-asia-uzb">about.centralasia.uzb</a>
+</li></ul>
+            </li><li class="nav-item ">
     <a class="nav-link" href="/CA-SDG-Platform/reporting-status">Reporting Status</a>
 </li><li class="nav-item ">
     <a class="nav-link" href="/CA-SDG-Platform/about">About</a>
@@ -744,7 +758,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('footer_menu', [{"path":"/contact-us","translation_key":"menu.contact_us"},{"path":"https://twitter.com/UNDPEurasia","translation_key":"general.twitter"},{"path":"/about/cookies-and-privacy/","translation_key":"menu.cookies"},{"path":"https://www.undp.org/","translation_key":"Implemented by UNDP"},{"path":"https://european-union.europa.eu/index_en","translation_key":"Project funded by EU"}]);
+        var currentValue = normalizeCurrentValue('footer_menu', [{"path":"/contact-us","translation_key":"menu.contact_us"},{"path":"https://twitter.com/UNDPEurasia","translation_key":"general.twitter"},{"path":"/about/cookies-and-privacy/","translation_key":"menu.cookies"},{"path":"https://www.undp.org/","translation_key":"<img src=\"https://mikepeleah.github.io/CA-SDG-Platform/assets/images/UNDP_logo_h40.png\" alt=\"UNDP logo\"> Implemented by UNDP"},{"path":"https://european-union.europa.eu/index_en","translation_key":"<img src=\"https://mikepeleah.github.io/CA-SDG-Platform/assets/images/EU_flag_h40.png\" alt=\"EU flag\"> Funded by EU"}]);
         var propertyEditor = editor.getEditor('root.footer_menu');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -1134,7 +1148,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('menu', [{"path":"/goals","translation_key":"general.goals","dropdown":[]},{"path":"/reporting-status","translation_key":"menu.reporting_status","dropdown":[]},{"path":"/about","translation_key":"menu.about","dropdown":[]},{"path":"/faq","translation_key":"menu.faq","dropdown":[]},{"path":"/news","translation_key":"menu.updates","dropdown":[]}]);
+        var currentValue = normalizeCurrentValue('menu', [{"path":"/goals","translation_key":"general.goals","dropdown":[]},{"path":"/central-asia","translation_key":"about.centralasia","dropdown":[{"path":"/central-asia-kaz","translation_key":"about.centralasia.kaz"},{"path":"/central-asia-kgz","translation_key":"about.centralasia.kgz"},{"path":"/central-asia-tjk","translation_key":"about.centralasia.tjk"},{"path":"/central-asia-tkm","translation_key":"about.centralasia.tkm"},{"path":"/central-asia-uzb","translation_key":"about.centralasia.uzb"}]},{"path":"/reporting-status","translation_key":"menu.reporting_status","dropdown":[]},{"path":"/about","translation_key":"menu.about","dropdown":[]},{"path":"/faq","translation_key":"menu.faq","dropdown":[]},{"path":"/news","translation_key":"menu.updates","dropdown":[]}]);
         var propertyEditor = editor.getEditor('root.menu');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -1450,12 +1464,12 @@ data-event-label="high"
                         </li>
                         <li>
                             
-                            <a href="https://www.undp.org/" target="_blank">Implemented by UNDP</a>
+                            <a href="https://www.undp.org/" target="_blank"><img src="https://mikepeleah.github.io/CA-SDG-Platform/assets/images/UNDP_logo_h40.png" alt="UNDP logo"> Implemented by UNDP</a>
                             
                         </li>
                         <li>
                             
-                            <a href="https://european-union.europa.eu/index_en" target="_blank">Project funded by EU</a>
+                            <a href="https://european-union.europa.eu/index_en" target="_blank"><img src="https://mikepeleah.github.io/CA-SDG-Platform/assets/images/EU_flag_h40.png" alt="EU flag"> Funded by EU</a>
                             
                         </li>
                         
@@ -1498,12 +1512,12 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Search';</script>
 
-<script src='/CA-SDG-Platform/assets/js/sdg.js?v=20230404185513'></script>
+<script src='/CA-SDG-Platform/assets/js/sdg.js?v=20230404210821'></script>
 
 
     
     
-    <script src="/CA-SDG-Platform/assets/js/custom.js?v=20230404185513"></script><script>
+    <script src="/CA-SDG-Platform/assets/js/custom.js?v=20230404210821"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>
