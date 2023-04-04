@@ -71,9 +71,9 @@ footer_menu:
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
   - path: https://www.undp.org/
-    translation_key: 'Implemented by UNDP'
+    translation_key: '<img src="https://mikepeleah.github.io/CA-SDG-Platform/assets/images/UNDP_logo_h40.png" alt="UNDP logo"> Implemented by UNDP'
   - path: https://european-union.europa.eu/index_en
-    translation_key: 'Project funded by EU'
+    translation_key: '<img src="https://mikepeleah.github.io/CA-SDG-Platform/assets/images/EU_flag_h40.png" alt="EU flag"> Funded by EU'
 frontpage_cards:
   - title: frontpage.download_all
     content: ''
@@ -183,6 +183,19 @@ menu:
   - path: /goals
     translation_key: general.goals
     dropdown: []
+  - path: /central-asia
+    translation_key: about.centralasia
+    dropdown: 
+    - path: /central-asia-kaz
+      translation_key: about.centralasia.kaz
+    - path: /central-asia-kgz
+      translation_key: about.centralasia.kgz
+    - path: /central-asia-tjk
+      translation_key: about.centralasia.tjk
+    - path: /central-asia-tkm
+      translation_key: about.centralasia.tkm
+    - path: /central-asia-uzb
+      translation_key: about.centralasia.uzb
   - path: /reporting-status
     translation_key: menu.reporting_status
     dropdown: []
