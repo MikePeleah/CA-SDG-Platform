@@ -70,6 +70,10 @@ footer_menu:
     translation_key: general.twitter
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
+  - path: https://www.undp.org/
+    translation_key: 'Implemented by UNDP'
+  - path: https://european-union.europa.eu/index_en
+    translation_key: 'Project funded by EU'
 frontpage_cards:
   - title: frontpage.download_all
     content: ''
@@ -131,6 +135,7 @@ indicator_metadata_form:
   language: ''
   scopes:
     - national
+    - regional
     - global
   exclude_fields: []
   translated: false
