@@ -1,7 +1,9 @@
-about.centralasia: '🌐 Central Asia'
-about.centralasia.kaz: 'Kazakhstan'
-about.centralasia.kgz: 'Kyrgyzstan'
-about.centralasia.tjk: 'Tajikistan'
-about.centralasia.tkm: 'Turkmenistan'
-about.centralasia.uzb: 'Uzbekistan'
-indicator.regional_metadata: 'Regional metadata'
+about:
+  centralasia: '🌐 Central Asia'
+  centralasia_kaz: '![Kazakhstan]{{ site.baseurl }}/assets/images/KAZ_flag_h20.png) Kazakhstan'
+  centralasia_kgz: '![Kyrgyzstan]{{ site.baseurl }}/assets/images/KGZ_flag_h20.png) Kyrgyzstan'
+  centralasia_tjk: '![Tajikistan]{{ site.baseurl }}/assets/images/TJK_flag_h20.png) Tajikistan'
+  centralasia_tkm: '![Turkmenistan]{{ site.baseurl }}/assets/images/TKM_flag_h20.png) Turkmenistan'
+  centralasia_uzb: '![Uzbekistan]{{ site.baseurl }}/assets/images/UZB_flag_h20.png) Uzbekistan'
+indicator:
+  regional_metadata: 'Regional metadata'
