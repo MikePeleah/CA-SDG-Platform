@@ -2,11 +2,11 @@
 en:
   about:
     centralasia: '🌐 Central Asia'
-    centralasia_kaz: '![Kazakhstan]{{ site.url }}/assets/images/KAZ_flag_h20.png) Kazakhstan'
-    centralasia_kgz: '![Kyrgyzstan]{{ site.url }}/assets/images/KGZ_flag_h20.png) Kyrgyzstan'
-    centralasia_tjk: '![Tajikistan]{{ site.url }}/assets/images/TJK_flag_h20.png) Tajikistan'
-    centralasia_tkm: '![Turkmenistan]{{ site.url }}/assets/images/TKM_flag_h20.png) Turkmenistan'
-    centralasia_uzb: '![Uzbekistan]{{ site.url }}/assets/images/UZB_flag_h20.png) Uzbekistan'
+    centralasia_kaz: '<img src="https://mikepeleah.github.io/CA-SDG-Platform//assets/images/KAZ_flag_h20.png" alt="Kazakhstan"> Kazakhstan'
+    centralasia_kgz: '<img src="https://mikepeleah.github.io/CA-SDG-Platform//assets/images/KGZ_flag_h20.png" alt="Kyrgyzstan"> Kyrgyzstan'
+    centralasia_tjk: '<img src="https://mikepeleah.github.io/CA-SDG-Platform//assets/images/TJK_flag_h20.png" alt="Tajikistan"> Tajikistan'
+    centralasia_tkm: '<img src="https://mikepeleah.github.io/CA-SDG-Platform//assets/images/TKM_flag_h20.png" alt="Turkmenistan"> Turkmenistan'
+    centralasia_uzb: '<img src="https://mikepeleah.github.io/CA-SDG-Platform//assets/images/UZB_flag_h20.png" alt="Uzbekistan"> Uzbekistan'
   indicator:
     regional_metadata: 'Regional metadata'
     policies: 'Policies'
@@ -22,11 +22,11 @@ en:
 ru:
   about:
     centralasia: '🌐 Центральная Азия'
-    centralasia_kaz: '![Казахстан]{{ site.url }}/assets/images/KAZ_flag_h20.png) Казахстан'
-    centralasia_kgz: '![Кыргызстан]{{ site.url }}/assets/images/KGZ_flag_h20.png) Кыргызстан'
-    centralasia_tjk: '![Таджикистан]{{ site.url }}/assets/images/TJK_flag_h20.png) Таджикистан'
-    centralasia_tkm: '![Туркменистан]{{ site.url }}/assets/images/TKM_flag_h20.png) Туркменистан'
-    centralasia_uzb: '![Узбекистан]{{ site.url }}/assets/images/UZB_flag_h20.png) Узбекистан'
+    centralasia_kaz: '<img src="https://mikepeleah.github.io/CA-SDG-Platform//assets/images/KAZ_flag_h20.png" alt="Казахстан"> Казахстан'
+    centralasia_kgz: '<img src="https://mikepeleah.github.io/CA-SDG-Platform//assets/images/KGZ_flag_h20.png" alt="Кыргызстан"> Кыргызстан'
+    centralasia_tjk: '<img src="https://mikepeleah.github.io/CA-SDG-Platform//assets/images/TJK_flag_h20.png" alt="Таджикистан"> Таджикистан'
+    centralasia_tkm: '<img src="https://mikepeleah.github.io/CA-SDG-Platform//assets/images/TKM_flag_h20.png" alt="Туркменистан"> Туркменистан'
+    centralasia_uzb: '<img src="https://mikepeleah.github.io/CA-SDG-Platform//assets/images/UZB_flag_h20.png" alt="Узбекистан"> Узбекистан'
   indicator:
     regional_metadata: 'Региональные метаданные'
     policies: 'Программы'
