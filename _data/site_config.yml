@@ -184,15 +184,15 @@ menu:
     translation_key: about.centralasia
     dropdown: 
     - path: /central-asia-kaz
-      translation_key: about.centralasia.kaz
+      translation_key: about.centralasia_kaz
     - path: /central-asia-kgz
-      translation_key: about.centralasia.kgz
+      translation_key: about.centralasia_kgz
     - path: /central-asia-tjk
-      translation_key: about.centralasia.tjk
+      translation_key: about.centralasia_tjk
     - path: /central-asia-tkm
-      translation_key: about.centralasia.tkm
+      translation_key: about.centralasia_tkm
     - path: /central-asia-uzb
-      translation_key: about.centralasia.uzb
+      translation_key: about.centralasia_uzb
   - path: /goals
     translation_key: general.goals
     dropdown: []
@@ -234,6 +234,12 @@ metadata_tabs:
     description: indicator.global_metadata_blurb
   - scope: sources
     title: indicator.sources
+    description: ''
+  - scope: policies
+    title: indicator.policies
+    description: ''
+  - scope: finances
+    title: indicator.finances
     description: ''
 news:
   category_links: false
