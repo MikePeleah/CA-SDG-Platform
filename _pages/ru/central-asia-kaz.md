@@ -15,3 +15,4 @@ layout: page
 
 
 ![Карта Казахстана, 2020]({{ site.url }}/assets/images/map_kazakhstan_un_2020_800px.jpg)
+

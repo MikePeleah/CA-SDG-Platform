@@ -13,13 +13,16 @@ layout: page
 ## ![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h20.png) Kazakhstan
 ### ![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h20.png) Kazakhstan
 
+
 * ![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h20.png) Kazakhstan
 * ![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h20.png) Kazakhstan
 * ![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h20.png) Kazakhstan
 
+
 - ![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h20.png) Kazakhstan
 - ![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h20.png) Kazakhstan
 - ![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h20.png) Kazakhstan
+
 
 1 ![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h20.png) Kazakhstan
 2 ![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h20.png) Kazakhstan
@@ -34,11 +37,12 @@ layout: page
 🌐 [Voluntary National Review 2019](https://hlpf.un.org/countries/kazakhstan/voluntary-national-review-2019)
 
 
-![Map of Kazakhstan, 2020]({{ site.baseurl }}/assets/images/map_kazakhstan_un_2020_800px.jpg)
-![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h240.png)
-
-
-
 # Test urls
-{{ site.baseurl }}
-{{ site.url }}
+[{{ site.baseurl }}]({{ site.baseurl }})
+[{{ site.url }}]({{ site.url }})
+
+
+
+![Map of Kazakhstan, 2020]({{ site.baseurl }}/assets/images/map_kazakhstan_un_2020_800px.jpg)
+
+![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h240.png)
