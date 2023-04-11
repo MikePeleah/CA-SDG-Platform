@@ -24,9 +24,9 @@ layout: page
 - ![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h20.png) Kazakhstan
 
 
-1 ![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h20.png) Kazakhstan
-2 ![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h20.png) Kazakhstan
-3 ![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h20.png) Kazakhstan
+1. ![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h20.png) Kazakhstan
+2. ![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h20.png) Kazakhstan
+3. ![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h20.png) Kazakhstan
 
 
 
@@ -39,6 +39,7 @@ layout: page
 
 # Test urls
 [{{ site.baseurl }}]({{ site.baseurl }})
+
 [{{ site.url }}]({{ site.url }})
 
 
