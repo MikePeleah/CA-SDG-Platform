@@ -193,6 +193,8 @@ menu:
       translation_key: about.centralasia_tkm
     - path: /central-asia-uzb
       translation_key: about.centralasia_uzb
+    - path: /central-asia
+      translation_key: about.centralasia
   - path: /goals
     translation_key: general.goals
     dropdown: []
