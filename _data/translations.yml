@@ -17,6 +17,9 @@ en:
     finances: 'Finances for SDGs'
     vnr: 'Voluntary National Reviews'
     sdgme: 'SDGs Monitoring'
+  custom:
+    national: 'National'
+    regional: 'Regional'
 
 # Russian
 ru:
@@ -37,3 +40,6 @@ ru:
     finances: 'Финансы для ЦУР'
     vnr: 'Добровольные национальные обзоры'
     sdgme: 'Мониторинг ЦУР'
+  custom:
+    national: 'Национальный'
+    regional: 'Региональный'
