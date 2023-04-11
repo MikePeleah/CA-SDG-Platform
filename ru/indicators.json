@@ -703,11 +703,11 @@
         
         {
           "id": "6-1-1",
-          "title": "Доля населения, пользующегося услугами водоснабжения, организованного с соблюдением требований безопасности",
+          "title": "global_indicators.6-1-1_SH_H2O_SAFE-title",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/6-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "6-2-1",
