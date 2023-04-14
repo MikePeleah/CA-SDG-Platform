@@ -4,7 +4,6 @@ language: en
 permalink: /finances/
 title: Finances for SDGs
 ---
-# Finances for SDGs
 Finance is the lifeblood of sustainable development. Without adequate financing, it is impossible to achieve the Sustainable Development Goals (SDGs). The private sector and innovative financing mechanisms can play a critical role in mobilizing resources and scaling up financing for SDGs. 
 
 ## UNDP SDG Finance Service Offers
@@ -28,7 +27,8 @@ The dashboard  gives a picture of planned, ongoing and completed activities with
 ![SDG Financing Profiles in Europe and Central Asia]({{ site.baseurl }}/assets/images/SDG_finance_dashboard.png)
 
 
-**Note:** Interactive Dashboard is currently available to UNDP staff only
+**Note:** *Interactive Dashboard is currently available to UNDP staff only*
+
 <iframe title="SDG Financing Profiles RBEC - Duplicate of Country Profiles" width="100%" height="550" src="https://app.powerbi.com/reportEmbed?reportId=73c75181-aa4f-495a-a82f-51b109b7c0f8&autoAuth=true&ctid=b3e5db5e-2944-4837-99f5-7488ace54319" frameborder="0" allowFullScreen="true"></iframe>
 
 

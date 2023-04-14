@@ -2,10 +2,9 @@
 layout: page
 language: en
 permalink: /policies/
-title: Policies for SDGs
+title: Policies for Sustainable Development Goals
 ---
 
-# Policies for Sustainable Development Goals
 Policies for Sustainable Development Goals (SDGs) are a set of guidelines and strategies aimed at achieving the 17 global sustainable development goals set by the United Nations. These policies are designed to address the economic, social, and environmental challenges faced by countries across the world and to promote sustainable development. Policies for SDGs involve various stakeholders, including governments, civil society organizations, private sector, and individuals, and require their collective efforts to achieve the SDGs. The policies provide a framework for the implementation of sustainable development initiatives and offer a roadmap to ensure that no one is left behind. By adopting policies for SDGs, countries can move towards a sustainable and equitable future.
 
 # MAPS: Mainstreaming, Acceleration and Policy Support
