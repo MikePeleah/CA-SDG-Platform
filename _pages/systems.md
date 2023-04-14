@@ -10,17 +10,17 @@ A systems thinking approach is increasingly recognized as essential to achieving
 
 To address this complexity, countries are using various SDG complexity tools, such as systems mapping, scenario planning, and social network analysis. For example, Colombia has used systems mapping to identify the interconnections and leverage points among SDGs, while Thailand has used scenario planning to anticipate the potential impacts of external shocks on SDG progress. Other countries such as Ghana, Indonesia, and Mexico have also employed different complexity tools to better understand and address the interrelated challenges of the SDGs.
 
-- Systems mapping - used by Colombia to identify interconnections and leverage points among SDGs: https://www.colombia-sdg.org/
-- Scenario planning - used by Thailand to anticipate potential impacts of external shocks on SDG progress: https://siamintelligence.com/en/insights/thailand-2030/
-- Social network analysis - used by Ghana to identify key stakeholders and their influence on SDG progress: https://www.ghanaiansdgs.org/
-- Integrated planning and reporting - used by Indonesia to align national and subnational plans with SDGs: https://www.id.undp.org/content/indonesia/id/home/sustainable-development-goals.html
-- SDG dashboard - used by Mexico to monitor progress on SDGs and highlight data gaps: https://www.gob.mx/sesna/articulos/tablero-nacional-de-indicadores-ods-2030?idiom=es
+- Systems mapping - used by Colombia to identify interconnections and leverage points among SDGs: [https://www.colombia-sdg.org/](https://www.colombia-sdg.org/)
+- Scenario planning - used by Thailand to anticipate potential impacts of external shocks on SDG progress: [https://siamintelligence.com/en/insights/thailand-2030/](https://siamintelligence.com/en/insights/thailand-2030/)
+- Social network analysis - used by Ghana to identify key stakeholders and their influence on SDG progress: [https://www.ghanaiansdgs.org/](https://www.ghanaiansdgs.org/)
+- Integrated planning and reporting - used by Indonesia to align national and subnational plans with SDGs: [https://www.id.undp.org/content/indonesia/id/home/sustainable-development-goals.html](https://www.id.undp.org/content/indonesia/id/home/sustainable-development-goals.html)
+- SDG dashboard - used by Mexico to monitor progress on SDGs and highlight data gaps: [https://www.gob.mx/sesna/articulos/tablero-nacional-de-indicadores-ods-2030?idiom=es](https://www.gob.mx/sesna/articulos/tablero-nacional-de-indicadores-ods-2030?idiom=es)
 
 
 # SDG systems in Central Asia 
 ## SDG systems 
 
-<iframe src="https://embed.kumu.io/583f2e8708cadd90110ac5657de6c125" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://embed.kumu.io/74a9c1005c1770d154ef51dccc809599" width="100%" height="600" frameborder="0"></iframe>
 
 ## Cross-border SDG issues
 
