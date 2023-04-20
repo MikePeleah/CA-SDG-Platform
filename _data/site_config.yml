@@ -201,6 +201,8 @@ menu:
   - path: /sdg-reporting
     translation_key: menu.sdgme
     dropdown:
+    - path: /parliaments/
+      translation_key: menu.parliaments
     - path: /vnr
       translation_key: menu.vnr
     - path: /reporting-status
