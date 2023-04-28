@@ -11,6 +11,8 @@ en:
     regional_metadata: 'Regional metadata'
     policies: 'Policies'
     finances: 'Finances'
+    annotation_2030_target: 'Target 2030'
+    annotation_2025_target: 'Target 2025'
   menu:
     policies: 'Policies for SDGs'
     systems: 'SDG systems'
@@ -35,6 +37,8 @@ ru:
     regional_metadata: 'Региональные метаданные'
     policies: 'Программы'
     finances: 'Финансы'
+    annotation_2030_target: 'Целевое значение 2030'
+    annotation_2025_target: 'Целевое значение 2025'
   menu:
     policies: 'Политика для ЦУР'
     systems: 'Системы ЦУР'
