@@ -23,6 +23,7 @@ en:
   custom:
     national: 'National'
     regional: 'Regional'
+    central_asia: 'Central Asia' 
 
 # Russian
 ru:
@@ -49,3 +50,4 @@ ru:
   custom:
     national: 'Национальный'
     regional: 'Региональный'
+    central_asia: 'Центральная Азия' 
