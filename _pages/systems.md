@@ -17,10 +17,36 @@ To address this complexity, countries are using various SDG complexity tools, su
 - SDG dashboard - used by Mexico to monitor progress on SDGs and highlight data gaps: [https://www.gob.mx/sesna/articulos/tablero-nacional-de-indicadores-ods-2030?idiom=es](https://www.gob.mx/sesna/articulos/tablero-nacional-de-indicadores-ods-2030?idiom=es)
 
 
+
+
 # SDG systems in Central Asia 
 ## SDG systems 
 
 <iframe src="https://embed.kumu.io/74a9c1005c1770d154ef51dccc809599" width="100%" height="600" frameborder="0"></iframe>
+
+
+
+# SDG Push Diagnostics for Interlinkages
+## Synergies and Tradeoffs
+The SDGs do not exist in silos. Understanding the interactions across social, economic and environmental elements of sustainable development is essential to move the needle on the SDGs. SDG Interlinkages show how actions directed towards one SDG can influence the others. Uncovering and understanding these interactions helps in achieving the 2030 Agenda - avoiding the unintended deterioration of the SDGs and their 169 associated targets.
+The target-level interlinkages are based on the latest available methodology by the [KnowSDGs Platform by European Commission](https://knowsdgs.jrc.ec.europa.eu/interlinkages-targets). A first literature review ([Miola et al., 2019](https://publications.jrc.ec.europa.eu/repository/handle/JRC115163)) was updated and expanded in [2021-2022](https://knowsdgs.jrc.ec.europa.eu/intro-interlinkages) by a team of researchers who retrieved and analysed all relevant scientific and grey literature* on SDG interlinkages, both in Scopus and Google Scholar.
+
+## Interlinkages Visualization
+### ![Flag of Kazakhstan]({{ site.baseurl }}/assets/images/KAZ_flag_h40.png) [Kazakhstan](https://data.undp.org/sdg-push-diagnostic/KAZ/synergies-and-tradeoffs)
+[![Kazakhstan]({{ site.baseurl }}/assets/images/sdgpush_interlinkages_KAZ.png)](https://data.undp.org/sdg-push-diagnostic/KAZ/synergies-and-tradeoffs)
+
+### ![Flag of Kyrgyzstan]({{ site.baseurl }}/assets/images/KGZ_flag_h40.png) [Kyrgyzstan](https://data.undp.org/sdg-push-diagnostic/KGZ/synergies-and-tradeoffs)
+[![Kyrgyzstan]({{ site.baseurl }}/assets/images/sdgpush_interlinkages_KGZ.png)](https://data.undp.org/sdg-push-diagnostic/KGZ/synergies-and-tradeoffs)
+
+### ![Flag of Tajikistan]({{ site.baseurl }}/assets/images/TJK_flag_h40.png) [Tajikistan](https://data.undp.org/sdg-push-diagnostic/TJK/synergies-and-tradeoffs)
+[![Tajikistan]({{ site.baseurl }}/assets/images/sdgpush_interlinkages_TJK.png)](https://data.undp.org/sdg-push-diagnostic/TJK/synergies-and-tradeoffs)
+
+### ![Flag of Turkmenistan]({{ site.baseurl }}/assets/images/TKM_flag_h40.png) [Turkmenistan](https://data.undp.org/sdg-push-diagnostic/TKM/synergies-and-tradeoffs)
+[![Turkmenistan]({{ site.baseurl }}/assets/images/sdgpush_interlinkages_TKM.png)](https://data.undp.org/sdg-push-diagnostic/TKM/synergies-and-tradeoffs)
+
+### ![Flag of Uzbekistan]({{ site.baseurl }}/assets/images/UZB_flag_h40.png) [Uzbekistan](https://data.undp.org/sdg-push-diagnostic/UZB/synergies-and-tradeoffs)
+[![Uzbekistan]({{ site.baseurl }}/assets/images/sdgpush_interlinkages_UZB.png)](https://data.undp.org/sdg-push-diagnostic/UZB/synergies-and-tradeoffs)
+
 
 ## Cross-border SDG issues
 
