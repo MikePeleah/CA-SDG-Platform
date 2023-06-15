@@ -26,7 +26,7 @@ en:
     regional: 'Regional'
     central_asia: 'Central Asia' 
   global_indicators:
-    1-1-1-a-title : 'Employed population below international poverty line (%)'
+    1-1-1-b-title : 'Employed population below international poverty line (%)'
   regional_indicators:
     1-1-1-a-title : 'Proportion of population below international poverty lines (%)'
     16-3-2-a-title : 'Rule of Law, Estimate (WGI)'
@@ -64,7 +64,7 @@ ru:
     regional: 'Региональный'
     central_asia: 'Центральная Азия' 
   global_indicators:
-    1-1-1-a-title : 'Employed population below international poverty line (%)'
+    1-1-1-b-title : 'Employed population below international poverty line (%)'
   regional_indicators:
     1-1-1-a-title : 'Proportion of population below international poverty lines (%)'
     16-3-2-a-title : 'Rule of Law, Estimate (WGI)'
