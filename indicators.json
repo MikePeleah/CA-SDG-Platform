@@ -15,7 +15,7 @@
         },
         {
           "id": "1-1-1-a",
-          "title": "Proportion of population below international poverty line (%)",
+          "title": "Proportion of population below international poverty lines (%)",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/1-1-1-a",
@@ -1798,6 +1798,14 @@
           "status": "notstarted"
         },
         {
+          "id": "16-3-2-a",
+          "title": "Rule of Law, Estimate (WGI)",
+          "description": "",
+          "keywords": "",
+          "href": "/CA-SDG-Platform/16-3-2-a",
+          "status": "complete"
+        },
+        {
           "id": "16-3-3",
           "title": "Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism",
           "description": "",
@@ -1838,6 +1846,14 @@
           "status": "notstarted"
         },
         {
+          "id": "16-5-2-a",
+          "title": "Control of Corruption, Estimate (WGI)",
+          "description": "",
+          "keywords": "",
+          "href": "/CA-SDG-Platform/16-5-2-a",
+          "status": "complete"
+        },
+        {
           "id": "16-6-1",
           "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)",
           "description": "",
@@ -1852,6 +1868,22 @@
           "keywords": "",
           "href": "/CA-SDG-Platform/16-6-2",
           "status": "notstarted"
+        },
+        {
+          "id": "16-6-2-a",
+          "title": "Government Effectiveness, Estimate (WGI)",
+          "description": "",
+          "keywords": "",
+          "href": "/CA-SDG-Platform/16-6-2-a",
+          "status": "complete"
+        },
+        {
+          "id": "16-6-2-b",
+          "title": "Regulatory Quality, Estimate (WGI)",
+          "description": "",
+          "keywords": "",
+          "href": "/CA-SDG-Platform/16-6-2-b",
+          "status": "complete"
         },
         {
           "id": "16-7-1",
@@ -1894,12 +1926,28 @@
           "status": "notstarted"
         },
         {
+          "id": "16-10-1-a",
+          "title": "Political Stability and Absence of Violence/Terrorism, Estimate (WGI)",
+          "description": "",
+          "keywords": "",
+          "href": "/CA-SDG-Platform/16-10-1-a",
+          "status": "complete"
+        },
+        {
           "id": "16-10-2",
           "title": "Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/16-10-2",
           "status": "notstarted"
+        },
+        {
+          "id": "16-10-2-a",
+          "title": "Voice and Accountability, Estimate (WGI)",
+          "description": "",
+          "keywords": "",
+          "href": "/CA-SDG-Platform/16-10-2-a",
+          "status": "complete"
         },
         {
           "id": "16-a-1",
