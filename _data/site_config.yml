@@ -227,18 +227,18 @@ menu:
 #    dropdown: []
 metadata_edit_url: metadata
 metadata_tabs:
-  - scope: national
-    title: indicator.national_metadata
-    description: indicator.national_metadata_blurb
-  - scope: regional
-    title: indicator.regional_metadata
-    description: indicator.regional_metadata_blurb
+#  - scope: national
+#    title: indicator.national_metadata
+#    description: indicator.national_metadata_blurb
+#  - scope: regional
+#    title: indicator.regional_metadata
+#    description: indicator.regional_metadata_blurb
   - scope: global
     title: indicator.global_metadata
     description: indicator.global_metadata_blurb
-  - scope: sources
-    title: indicator.sources
-    description: ''
+#  - scope: sources
+#    title: indicator.sources
+#    description: ''
   - scope: policies
     title: indicator.policies
     description: ''
@@ -271,7 +271,7 @@ repository_url_site: 'https://github.com/MikePeleah/CA-SDG-Platform'
 search_index_boost: []
 search_index_extra_fields: []
 site_config_form:
-  enabled: true
+  enabled: false
   dropdowns: []
   repository_link: /tree/develop/_data
   translation_link: ''
