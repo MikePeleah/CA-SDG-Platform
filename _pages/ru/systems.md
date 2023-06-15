@@ -5,7 +5,6 @@ permalink: /ru/systems/
 title: SDG Systems 
 ---
 
-# SDG Systems
 A systems thinking approach is increasingly recognized as essential to achieving the Sustainable Development Goals (SDGs), given the interlinkages and cross-boundary issues among the 17 goals. We need to [unpack these interlinkages](https://www.undp.org/eurasia/blog/keep-it-simple-complexity-and-sdgs) and consider the potential synergies and trade-offs among different SDGs. Cross-boundary issues, such as climate change and inequality, can have impacts on multiple SDGs and require coordinated policy responses. This is a crucial element of sustanable development in Central Asia.
 
 To address this complexity, countries are using various SDG complexity tools, such as systems mapping, scenario planning, and social network analysis. For example, Colombia has used systems mapping to identify the interconnections and leverage points among SDGs, while Thailand has used scenario planning to anticipate the potential impacts of external shocks on SDG progress. Other countries such as Ghana, Indonesia, and Mexico have also employed different complexity tools to better understand and address the interrelated challenges of the SDGs.
