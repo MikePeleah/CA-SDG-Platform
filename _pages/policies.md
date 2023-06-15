@@ -14,7 +14,7 @@ Kazakhstan has integrated the SDGs into its "Kazakhstan 2050" strategy, which ai
 
 The Rapid Integrated Assessment (RIA) Tool aims to support countries in mainstreaming the Sustainable Development Goals (SDGs) into national and subnational planning. Kazakhstan conducted assesement of State Strategies and Programs and Territorial Development Plans
 
-![Kazakhstan RIA Matrix]({{ site.baseurl }}/assets/images/KAZ_RIA_Matrix.png | width="100%")
+![Kazakhstan RIA Matrix]({{ site.baseurl }}/assets/images/KAZ_RIA_Matrix_1240px.png)
 
 
 ## ![Flag of Kyrgyzstan]({{ site.baseurl }}/assets/images/KGZ_flag_h40.png) Kyrgyzstan
