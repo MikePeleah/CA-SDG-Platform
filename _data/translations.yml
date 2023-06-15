@@ -24,6 +24,9 @@ en:
     national: 'National'
     regional: 'Regional'
     central_asia: 'Central Asia' 
+  global_indicators:
+    1-1-1-a-title : 'Proportion of population below international poverty line (%)'
+
 
 # Russian
 ru:
