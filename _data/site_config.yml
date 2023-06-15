@@ -75,27 +75,38 @@ footer_menu:
   - path: https://european-union.europa.eu/index_en
     translation_key: '<img src="https://mikepeleah.github.io/CA-SDG-Platform/assets/images/EU_flag_h40.png" alt="EU flag"> Funded by EU '
 frontpage_cards:
-  - title: frontpage.download_all
-    content: ''
-    include: components/download-all-data.html
-    button_label: ''
-    button_link: ''
-    rule_color: ''
-  - title: Lorem ipsum
+# - title: frontpage.download_all
+#   content: ''
+#   include: components/download-all-data.html
+#   button_label: ''
+#   button_link: ''
+#   rule_color: ''
+  - title: SDG Partnership 
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+      Achieving SDGs requires whole-of-society approach, partenrship and collaboration. Learn how you could contribute to SDGs achievement in Central Asia
+      * Private sector
+      * CSO and NGOs
+      * Academia 
+      * [Parliaments](https://mikepeleah.github.io/CA-SDG-Platform/parliaments)
     include: ''
     button_label: Read more
-    button_link: 'https://example.com'
+    button_link: 'https://data.undp.org/sdg-push-diagnostic'
     rule_color: ''
-  - title: Nam vestibulum
+  - title: SDG Push Diagnostics
     content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+      SDG Push reimagines and recalibrates how we determine, interrogate and advance development interventions that put countries on more stable footing. The Diagnostic powers ‘Integrated SDG Insights‘ reports which provide a strong evidence-base and relevant insights to support national ambition at the SDG Summit 2023.
+      [Overview of SDG Push diagnoistics for Central Asia](https://mikepeleah.github.io/CA-SDG-Platform/sdg-trends/)
     include: ''
     button_label: Read more
-    button_link: 'https://example.com'
+    button_link: 'https://data.undp.org/sdg-push-diagnostic'
+    rule_color: ''
+  - title: The 2023 SDG Summit
+    content: |
+      The 2023 SDG Summit will be convened on 18-19 September 2023, during the United Nations General Assembly high-level week. Heads of State and Government will gather at the United Nations Headquarters in New York to follow-up and review the implementation of the 2030 Agenda for Sustainable Development and the 17 Sustainable Development Goals (SDGs) . They will carry out a comprehensive review of the state of the SDGs, respond to the impact of multiple and interlocking crises facing the world, and provide high-level political guidance on transformative and accelerated actions leading up to the target year of 2030 for achieving the SDGs.
+      The special edition of the report of the Secretary-General entitled “Progress towards the Sustainable Development Goals: Towards a Rescue Plan for People and Planet”, the [Advance Unedited version](https://hlpf.un.org/sites/default/files/2023-06/SDG%20Progress%20Report%20Special%20Edition_1_0.pdf) has been released.
+    include: ''
+    button_label: Read more
+    button_link: 'https://www.un.org/en/conferences/SDGSummit2023'
     rule_color: ''
 frontpage_goals_grid:
   title: Central Asia Sustainable Development Goal indicators

@@ -21,9 +21,12 @@ en:
     sdgme: 'SDGs Monitoring'
     parliaments: 'Parliaments and SDGs'    
   custom:
+    global: 'Global'
     national: 'National'
     regional: 'Regional'
     central_asia: 'Central Asia' 
+  global_indicators:
+    1-1-1-b-title : 'Employed population below international poverty line (%)'
   regional_indicators:
     1-1-1-a-title : 'Proportion of population below international poverty lines (%)'
     16-3-2-a-title : 'Rule of Law, Estimate (WGI)'
@@ -56,9 +59,12 @@ ru:
     sdgme: 'Мониторинг ЦУР'
     parliaments: 'Парламенты и ЦУР'
   custom:
+    global : 'Глобальный'
     national: 'Национальный'
     regional: 'Региональный'
     central_asia: 'Центральная Азия' 
+  global_indicators:
+    1-1-1-b-title : 'Employed population below international poverty line (%)'
   regional_indicators:
     1-1-1-a-title : 'Proportion of population below international poverty lines (%)'
     16-3-2-a-title : 'Rule of Law, Estimate (WGI)'
@@ -67,4 +73,3 @@ ru:
     16-6-2-b-title : 'Regulatory Quality, Estimate (WGI)'
     16-10-1-a-title : 'Political Stability and Absence of Violence/Terrorism, Estimate (WGI)'
     16-10-2-a-title : 'Voice and Accountability, Estimate (WGI)'
-
