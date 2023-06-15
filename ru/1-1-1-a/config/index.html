@@ -103,7 +103,7 @@ var translations = {
         ================================================== -->
 
         
-    <title>Редактировать Конфигурация: 17.18.1 - Показатели Целей устойчивого развития</title>
+    <title>Редактировать Конфигурация: 1.1.1_a - Показатели Целей устойчивого развития</title>
 
 
 
@@ -129,7 +129,7 @@ var translations = {
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/CA-SDG-Platform/assets/css/style.css?v=20230429011628">
+        <link rel="stylesheet" href="/CA-SDG-Platform/assets/css/style.css?v=20230615024016">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -248,7 +248,7 @@ layout-config-builder
       Pусский
     </button>
     <ul class="dropdown-menu"><li>
-            <a class="dropdown-item" href="/CA-SDG-Platform/17-18-1/config/">
+            <a class="dropdown-item" href="/CA-SDG-Platform/1-1-1-a/config/">
               English
             </a>
           </li></ul>
@@ -260,7 +260,7 @@ layout-config-builder
                     <span class="no-js-language-toggle"><div class="language-toggle-container d-flex">
     <i class="fa fa-globe language-toggle-globe-links"></i>
     <ul class="language-toggle-links list-unstyled list-inline"><li class="language-option-en list-inline-item">
-            <a class="language-toggle-link" href="/CA-SDG-Platform/17-18-1/config/">
+            <a class="language-toggle-link" href="/CA-SDG-Platform/1-1-1-a/config/">
                 English
             </a>
         </li></ul>
@@ -280,7 +280,7 @@ data-event-label="high"
 
 <div id="main-content" class="container" role="main">
   <div class="row">
-    <div class="col-md-12"><h1>Редактировать Конфигурация: 17.18.1</h1></div>
+    <div class="col-md-12"><h1>Редактировать Конфигурация: 1.1.1_a</h1></div>
   </div>
   <div class="config-widgets row">
     <div class="col-md-6" id="search_holder">
@@ -606,7 +606,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('data_start_values', []);
+        var currentValue = normalizeCurrentValue('data_start_values', [{"field":"GeoAreaName","value":"Kazakhstan"},{"field":"GeoAreaName","value":"Kyrgyzstan"},{"field":"GeoAreaName","value":"Tajikistan"},{"field":"GeoAreaName","value":"Turkmenistan"},{"field":"GeoAreaName","value":"Uzbekistan"}]);
         var propertyEditor = editor.getEditor('root.data_start_values');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -748,11 +748,23 @@ data-event-label="high"
       }
     propertyEditorAccessibilityFixes(editor.getEditor('root.graph_stacked_disaggregation'));
 
+    
+      try {
+        var currentValue = normalizeCurrentValue('graph_target_lines', []);
+        var propertyEditor = editor.getEditor('root.graph_target_lines');
+        propertyEditor.setValue(null);
+        propertyEditor.setValue(currentValue);
+        
+      }
+      catch (e) {
+        console.log(e.message);
+        console.log('Unable to set config key: graph_target_lines');
+      }
     propertyEditorAccessibilityFixes(editor.getEditor('root.graph_target_lines'));
 
     
       try {
-        var currentValue = normalizeCurrentValue('graph_title', "global_indicators.17-18-1-title");
+        var currentValue = normalizeCurrentValue('graph_title', "global_indicators.1-1-1-a-title");
         var propertyEditor = editor.getEditor('root.graph_title');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -796,7 +808,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('indicator_name', "global_indicators.17-18-1-title");
+        var currentValue = normalizeCurrentValue('indicator_name', "global_indicators.1-1-1-a-title");
         var propertyEditor = editor.getEditor('root.indicator_name');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -810,7 +822,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('indicator_number', "17.18.1");
+        var currentValue = normalizeCurrentValue('indicator_number', "1-1-1-a");
         var propertyEditor = editor.getEditor('root.indicator_number');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -826,7 +838,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_geographical_coverage', "");
+        var currentValue = normalizeCurrentValue('national_geographical_coverage', "custom.central_asia");
         var propertyEditor = editor.getEditor('root.national_geographical_coverage');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -854,7 +866,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('permalink', "");
+        var currentValue = normalizeCurrentValue('permalink', "/1-1-1-a/");
         var propertyEditor = editor.getEditor('root.permalink');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -890,7 +902,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('reporting_status', "notstarted");
+        var currentValue = normalizeCurrentValue('reporting_status', "complete");
         var propertyEditor = editor.getEditor('root.reporting_status');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -955,7 +967,7 @@ data-event-label="high"
     function addTranslationLink(propertyEditor) {
       var parts = propertyEditor.value.split('.');
       var translationLink = '';
-      translationLink = translationLink.replace('[id]', '17-18-1');
+      translationLink = translationLink.replace('[id]', '1-1-1_a');
       translationLink = translationLink.replace('[group]', parts[0]);
       translationLink = translationLink.replace('[key]', parts[1]);
       translationLink = translationLink.replace('[language]', 'ru');
@@ -990,7 +1002,7 @@ data-event-label="high"
       else {
         var config = editor.getValue();
         var yaml = jsyaml.safeDump(config);
-        SaveAsFile(yaml, '17-18-1.yml', 'text/plain;charset=utf-8');
+        SaveAsFile(yaml, '1-1-1_a.yml', 'text/plain;charset=utf-8');
       }
     });
 
@@ -1040,10 +1052,6 @@ data-event-label="high"
                         </li>
                         
                         
-                        
-                        <li>
-                            <a href="/CA-SDG-Platform/ru/config">Configuration</a>
-                        </li>
                         </ul>
                 </div>
             </div>
@@ -1078,12 +1086,12 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Поиск';</script>
 
-<script src='/CA-SDG-Platform/assets/js/sdg.js?v=20230429011628'></script>
+<script src='/CA-SDG-Platform/assets/js/sdg.js?v=20230615024016'></script>
 
 
     
     
-    <script src="/CA-SDG-Platform/assets/js/custom.js?v=20230429011628"></script><script>
+    <script src="/CA-SDG-Platform/assets/js/custom.js?v=20230615024016"></script><script>
     new indicatorInit();
     new accessibilitySwitcher();
 </script>

@@ -7,23 +7,31 @@
         
         {
           "id": "1-1-1",
-          "title": "Test indicator 1-1-1",
+          "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/1-1-1",
+          "status": "notstarted"
+        },
+        {
+          "id": "1-1-1-a",
+          "title": "global_indicators.1-1-1-a-title",
+          "description": "",
+          "keywords": "",
+          "href": "/CA-SDG-Platform/ru/1-1-1-a",
           "status": "complete"
         },
         {
-          "id": "1-1-2",
-          "title": "Test indicator 1-1-2",
+          "id": "1-1-1_a",
+          "title": "global_indicators.1-1-1-a-title",
           "description": "",
           "keywords": "",
-          "href": "/CA-SDG-Platform/ru/1-1-2",
+          "href": "/CA-SDG-Platform/ru/1-1-1_a",
           "status": "complete"
         },
         {
           "id": "1-2-1",
-          "title": "Доля населения страны, живущего за официальной чертой бедности, в разбивке по полу и возрасту",
+          "title": "Proportion of population living below the national poverty line, by sex and age",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/1-2-1",
@@ -31,7 +39,7 @@
         },
         {
           "id": "1-2-2",
-          "title": "Доля мужчин, женщин и детей всех возрастов, живущих в нищете во всех ее проявлениях, согласно национальным определениям",
+          "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/1-2-2",
@@ -39,7 +47,7 @@
         },
         {
           "id": "1-3-1",
-          "title": "Доля населения, охватываемого минимальным уровнем/системами социальной защиты, в разбивке по полу, с выделением детей, безработных, пожилых, инвалидов, беременных, новорожденных, лиц, получивших трудовое увечье, и бедных и уязвимых",
+          "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/1-3-1",
@@ -47,7 +55,7 @@
         },
         {
           "id": "1-4-1",
-          "title": "Доля населения, живущего в домохозяйствах с доступом к базовым услугам",
+          "title": "Proportion of population living in households with access to basic services",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/1-4-1",
@@ -55,7 +63,7 @@
         },
         {
           "id": "1-4-2",
-          "title": "Доля совокупного взрослого населения, обладающего гарантированными правами землевладения, a) которые подтверждены признанными законом документами, и b) считающего свои права на землю гарантированными, в разбивке по полу и по формам землевладения",
+          "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/1-4-2",
@@ -63,7 +71,7 @@
         },
         {
           "id": "1-5-1",
-          "title": "Число погибших, пропавших без вести и пострадавших непосредственно в результате бедствий на 100 000 человек",
+          "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/1-5-1",
@@ -71,7 +79,7 @@
         },
         {
           "id": "1-5-2",
-          "title": "Прямые экономические потери от бедствий в процентном отношении к мировому валовому внутреннему продукту (ВВП)",
+          "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/1-5-2",
@@ -79,7 +87,7 @@
         },
         {
           "id": "1-5-3",
-          "title": "Число стран, принявших и осуществляющих национальные стратегии снижения риска бедствий в соответствии с Сендайской рамочной программой по снижению риска бедствий на 2015–2030 годы",
+          "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/1-5-3",
@@ -87,7 +95,7 @@
         },
         {
           "id": "1-5-4",
-          "title": "Доля местных органов власти, принявших и осуществляющих местные стратегии снижения риска бедствий в соответствии с национальными стратегиями снижения риска бедствий",
+          "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/1-5-4",
@@ -95,7 +103,7 @@
         },
         {
           "id": "1-a-1",
-          "title": "Суммарный объем субсидий на официальную помощь в целях развития, полученных от всех доноров и направляемых на искоренение нищеты, в качестве доли от валового национального дохода страны-получателя",
+          "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/1-a-1",
@@ -103,18 +111,10 @@
         },
         {
           "id": "1-a-2",
-          "title": "Доля расходов на основные услуги (образование, здравоохранение и социальную защиту) в общей сумме государственных расходов",
+          "title": "Proportion of total government spending on essential services (education, health and social protection)",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/1-a-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "1-b-1",
-          "title": "Государственные социальные расходы в интересах малоимущих слоев населения",
-          "description": "",
-          "keywords": "",
-          "href": "/CA-SDG-Platform/ru/1-b-1",
           "status": "notstarted"
         }]
     }
@@ -127,7 +127,7 @@
         
         {
           "id": "2-1-1",
-          "title": "Распространенность недоедания",
+          "title": "Prevalence of undernourishment",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/2-1-1",
@@ -135,7 +135,7 @@
         },
         {
           "id": "2-1-2",
-          "title": "Уровень умеренного или острого отсутствия продовольственной безопасности населения (по «Шкале восприятия отсутствия продовольственной безопасности»)",
+          "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/2-1-2",
@@ -143,7 +143,7 @@
         },
         {
           "id": "2-2-1",
-          "title": "Распространенность задержки роста среди детей в возрасте до пяти лет (среднеквадратичное отклонение от медианного показателя роста к возрасту ребенка в соответствии с нормами роста детей, установленными Всемирной организацией здравоохранения (ВОЗ), <-2)",
+          "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/2-2-1",
@@ -151,7 +151,7 @@
         },
         {
           "id": "2-2-2",
-          "title": "Распространенность неполноценного питания среди детей в возрасте до пяти лет в разбивке по виду (истощение или ожирение) (среднеквадратичное отклонение от медианного показателя веса к возрасту в соответствии с нормами роста детей, установленными ВОЗ, >+2 или <-2)",
+          "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/2-2-2",
@@ -159,7 +159,7 @@
         },
         {
           "id": "2-2-3",
-          "title": "Распространенность анемии среди женщин в возрасте 15–49 лет в разбивке по статусу беременности (в процентах)",
+          "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/2-2-3",
@@ -167,7 +167,7 @@
         },
         {
           "id": "2-3-1",
-          "title": "Объем производства на производственную единицу в разбивке по классам размера предприятий фермерского хозяйства/скотоводства/лесного хозяйства",
+          "title": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/2-3-1",
@@ -175,7 +175,7 @@
         },
         {
           "id": "2-3-2",
-          "title": "Средний доход мелких производителей продовольственной продукции в разбивке по полу и статусу принадлежности к коренным народам",
+          "title": "Average income of small-scale food producers, by sex and indigenous status",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/2-3-2",
@@ -183,7 +183,7 @@
         },
         {
           "id": "2-4-1",
-          "title": "Доля площади сельскохозяйственных угодий, на которых применяются продуктивные и неистощительные методы ведения сельского хозяйства",
+          "title": "Proportion of agricultural area under productive and sustainable agriculture",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/2-4-1",
@@ -191,7 +191,7 @@
         },
         {
           "id": "2-5-1",
-          "title": "Количество генетических ресурсов растительного и зоологического происхождения, предназначенных для производства продовольствия и сельского хозяйства, которые хранятся на специальных объектах либо среднесрочного, либо долгосрочного хранения",
+          "title": "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/2-5-1",
@@ -199,7 +199,7 @@
         },
         {
           "id": "2-5-2",
-          "title": "Доля местных пород, относимых к категории находящихся под угрозой исчезновения",
+          "title": "Proportion of local breeds classified as being at risk of extinction",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/2-5-2",
@@ -207,7 +207,7 @@
         },
         {
           "id": "2-a-1",
-          "title": "Индекс ориентированности на сельское хозяйство, определяемый по структуре государственных расходов",
+          "title": "The agriculture orientation index for government expenditures",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/2-a-1",
@@ -215,7 +215,7 @@
         },
         {
           "id": "2-a-2",
-          "title": "Совокупный приток официальных средств (официальная помощь в целях развития плюс прочие потоки официальных средств) в сельское хозяйство",
+          "title": "Total official flows (official development assistance plus other official flows) to the agriculture sector",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/2-a-2",
@@ -223,7 +223,7 @@
         },
         {
           "id": "2-b-1",
-          "title": "Субсидирование экспорта сельскохозяйственной продукции",
+          "title": "Agricultural export subsidies",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/2-b-1",
@@ -231,7 +231,7 @@
         },
         {
           "id": "2-c-1",
-          "title": "Показатель ценовых аномалий на рынке продовольствия",
+          "title": "Indicator of food price anomalies",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/2-c-1",
@@ -247,7 +247,7 @@
         
         {
           "id": "3-1-1",
-          "title": "Коэффициент материнской смертности",
+          "title": "Maternal mortality ratio",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-1-1",
@@ -255,7 +255,7 @@
         },
         {
           "id": "3-1-2",
-          "title": "Доля родов, принятых квалифицированными медицинскими работниками",
+          "title": "Proportion of births attended by skilled health personnel",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-1-2",
@@ -263,7 +263,7 @@
         },
         {
           "id": "3-2-1",
-          "title": "Коэффициент смертности детей в возрасте до пяти лет",
+          "title": "Under‑5 mortality rate",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-2-1",
@@ -271,7 +271,7 @@
         },
         {
           "id": "3-2-2",
-          "title": "Коэффициент неонатальной смертности",
+          "title": "Neonatal mortality rate",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-2-2",
@@ -279,7 +279,7 @@
         },
         {
           "id": "3-3-1",
-          "title": "Число новых заражений ВИЧ на 1000 неин­фицированных в разбивке по полу, возрасту и принадлежности к основным группам населения",
+          "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-3-1",
@@ -287,7 +287,7 @@
         },
         {
           "id": "3-3-2",
-          "title": "Заболеваемость туберкулезом на 100 000 че­ловек",
+          "title": "Tuberculosis incidence per 100,000 population",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-3-2",
@@ -295,7 +295,7 @@
         },
         {
           "id": "3-3-3",
-          "title": "Заболеваемость малярией на 1000 человек",
+          "title": "Malaria incidence per 1,000 population",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-3-3",
@@ -303,7 +303,7 @@
         },
         {
           "id": "3-3-4",
-          "title": "Заболеваемость гепатитом B на 100 000 че­ловек",
+          "title": "Hepatitis B incidence per 100,000 population",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-3-4",
@@ -311,7 +311,7 @@
         },
         {
           "id": "3-3-5",
-          "title": "Число людей, нуждающихся в лечении от «забытых» тропических болезней",
+          "title": "Number of people requiring interventions against neglected tropical diseases",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-3-5",
@@ -319,7 +319,7 @@
         },
         {
           "id": "3-4-1",
-          "title": "Смертность от сердечно-сосудистых заболеваний, рака, диабета, хронических респираторных заболеваний",
+          "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-4-1",
@@ -327,7 +327,7 @@
         },
         {
           "id": "3-4-2",
-          "title": "Смертность от самоубийств",
+          "title": "Suicide mortality rate",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-4-2",
@@ -335,7 +335,7 @@
         },
         {
           "id": "3-5-1",
-          "title": "Охват лечением расстройств, вызванных употреблением психоактивных веществ (медикаментозные, психосоциальные и реабилитационные услуги и услуги по последующему уходу)",
+          "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-5-1",
@@ -343,7 +343,7 @@
         },
         {
           "id": "3-5-2",
-          "title": "Злоупотребление алкоголем (определяемое в соответствии с национальными особенностями употребление алкоголя на душу населения в возрасте от 15 лет) в литрах чистого спирта в календарный год",
+          "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-5-2",
@@ -351,7 +351,7 @@
         },
         {
           "id": "3-6-1",
-          "title": "Смертность в результате дорожно-транспортных происшествий",
+          "title": "Death rate due to road traffic injuries",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-6-1",
@@ -359,7 +359,7 @@
         },
         {
           "id": "3-7-1",
-          "title": "Доля женщин репродуктивного возраста (от 15 до 49 лет), чьи потребности по планированию семьи удовлетворяются современными методами",
+          "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-7-1",
@@ -367,7 +367,7 @@
         },
         {
           "id": "3-7-2",
-          "title": "Показатель рождаемости среди девушек-подростков (в возрасте от 10 до 14 лет; в возрасте от 15 до 19 лет) на 1000 девушек-подростков в той же возрастной группе",
+          "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-7-2",
@@ -375,7 +375,7 @@
         },
         {
           "id": "3-8-1",
-          "title": "Охват основными медико-санитарными услугами (определяемый как средний охват основными услугами по отслеживаемым процедурам, к которым относятся охрана репродуктивного здоровья, охрана здоровья матери и ребенка, лечение инфекционных заболеваний, лечение неинфекционных заболеваний и масштабы и доступность услуг для широких слоев населения и для находящихся в наиболее неблагоприятном положении групп населения)",
+          "title": "Coverage of essential health services",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-8-1",
@@ -383,7 +383,7 @@
         },
         {
           "id": "3-8-2",
-          "title": "Доля населения с большим удельным весом семейных расходов на медицинскую помощь в общем объеме расходов или доходов домохозяйств",
+          "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-8-2",
@@ -391,7 +391,7 @@
         },
         {
           "id": "3-9-1",
-          "title": "Смертность от загрязнения воздуха в жилых помещениях и атмосферного воздуха",
+          "title": "Mortality rate attributed to household and ambient air pollution",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-9-1",
@@ -399,7 +399,7 @@
         },
         {
           "id": "3-9-2",
-          "title": "Смертность от отсутствия безопасной воды, безопасной санитарии и гигиены (от отсутствия безопасных услуг в области водоснабжения, санитарии и гигиены (ВССГ) для всех)",
+          "title": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-9-2",
@@ -407,7 +407,7 @@
         },
         {
           "id": "3-9-3",
-          "title": "Смертность от неумышленного отравления",
+          "title": "Mortality rate attributed to unintentional poisoning",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-9-3",
@@ -415,7 +415,7 @@
         },
         {
           "id": "3-a-1",
-          "title": "Стандартизированная по возрасту распространенность употребления табака лицами в возрасте 15 лет и старше",
+          "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-a-1",
@@ -423,7 +423,7 @@
         },
         {
           "id": "3-b-1",
-          "title": "Доля целевой группы населения, охваченная иммунизацией всеми вакцинами, включенными в национальные программы",
+          "title": "Proportion of the target population covered by all vaccines included in their national programme",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-b-1",
@@ -431,7 +431,7 @@
         },
         {
           "id": "3-b-2",
-          "title": "Общий чистый объем официальной помощи в целях развития, направленной на медицинские исследования и в основные отрасли здравоохранения",
+          "title": "Total net official development assistance to medical research and basic health sectors",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-b-2",
@@ -439,7 +439,7 @@
         },
         {
           "id": "3-b-3",
-          "title": "Доля медицинских учреждений, постоянно располагающих набором основных необходимых и доступных лекарственных средств",
+          "title": "Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-b-3",
@@ -447,7 +447,7 @@
         },
         {
           "id": "3-c-1",
-          "title": "Число медицинских работников на душу населения и их распределение",
+          "title": "Health worker density and distribution",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-c-1",
@@ -455,7 +455,7 @@
         },
         {
           "id": "3-d-1",
-          "title": "Способность соблюдать Международные медико-санитарные правила (ММСП) и готовность к чрезвычайным ситуациям в области общественного здравоохранения",
+          "title": "International Health Regulations (IHR) capacity and health emergency preparedness",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-d-1",
@@ -463,7 +463,7 @@
         },
         {
           "id": "3-d-2",
-          "title": "Процентная доля инфекций кровотока, вызываемых отдельными организмами, устойчивыми к противомикробным препаратам",
+          "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organismsi",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/3-d-2",
@@ -479,7 +479,7 @@
         
         {
           "id": "4-1-1",
-          "title": "Доля детей и молодежи, приходящаяся на a) учащихся 2 и 3 классов; b) выпускников начальной школы; и c) выпускников неполной средней школы, которые достигли по меньшей мере минимального уровня владения навыками i) чтения и ii) математики, в разбивке по полу",
+          "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/4-1-1",
@@ -487,7 +487,7 @@
         },
         {
           "id": "4-1-2",
-          "title": "Процент завершения (начальное образование, неполное и полное среднее образование)",
+          "title": "Completion rate (primary education, lower secondary education, upper secondary education)",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/4-1-2",
@@ -495,7 +495,7 @@
         },
         {
           "id": "4-2-1",
-          "title": "Доля детей в возрасте от 24 до 59 месяцев, развивающихся без отклонений в плане здоровья, обучения и психосоциального благополучия, в разбивке по полу",
+          "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sexi",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/4-2-1",
@@ -503,7 +503,7 @@
         },
         {
           "id": "4-2-2",
-          "title": "Уровень участия в организованных видах обучения (за один год до достижения официального возраста поступления в школу) в разбивке по полу",
+          "title": "Participation rate in organized learning (one year before the official primary entry age), by sex",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/4-2-2",
@@ -511,7 +511,7 @@
         },
         {
           "id": "4-3-1",
-          "title": "Уровень участия молодых и взрослых людей в формальных и неформальных видах обучения и профессиональной подготовки в последние 12 месяцев в разбивке по полу",
+          "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/4-3-1",
@@ -519,7 +519,7 @@
         },
         {
           "id": "4-4-1",
-          "title": "Доля молодых и взрослых людей, обладающих навыками в области информационно-коммуникационных технологий, в разбивке по видам навыков",
+          "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/4-4-1",
@@ -527,7 +527,7 @@
         },
         {
           "id": "4-5-1",
-          "title": "Индексы равенства (женщин и мужчин, городских и сельских жителей, нижней и верхней квинтили достатка и других групп, например инвалидов, коренных народов и людей, затронутых конфликтами, в зависимости от наличия данных) по всем касающимся образования показателям в настоящем перечне, которые могут быть дезагрегированы",
+          "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/4-5-1",
@@ -535,7 +535,7 @@
         },
         {
           "id": "4-6-1",
-          "title": "Доля населения  в данной возрастной группе, достигшая, по меньшей мере, установленного уровня функциональной способности a) писать и читать и b) считать, в разбивке по полу",
+          "title": "Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/4-6-1",
@@ -543,7 +543,7 @@
         },
         {
           "id": "4-7-1",
-          "title": "Статус i) воспитания в духе всемирной гражданственности и ii) пропаганды устойчивого развития, включая гендерное равенство и права человека, на всех уровнях в a) национальной политике в сфере образования; b) учебных программах; c) программах подготовки учителей; и d) системе аттестации учащихся",
+          "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/4-7-1",
@@ -551,7 +551,7 @@
         },
         {
           "id": "4-a-1",
-          "title": "Доля школ, обеспеченных a) электроэнер­гией; b) доступом к Интернету для учебных целей; c) компьютерами для учебных целей; d) адаптиро­ванной инфраструктурой и материалами для учащихся-инвалидов; e) базовыми источниками питьевой воды; f) раздельными минимально оборудованными туалетами; и g) базовыми средствами для мытья рук (согласно определениям показателей инициативы ВССГ)",
+          "title": "Proportion of schools offering basic services, by type of service",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/4-a-1",
@@ -559,7 +559,7 @@
         },
         {
           "id": "4-b-1",
-          "title": "Объем официальной помощи в целях развития, направляемой на выплату стипендий, в разбивке по отраслям и видам обучения",
+          "title": "Volume of official development assistance flows for scholarships by sector and type of study",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/4-b-1",
@@ -567,7 +567,7 @@
         },
         {
           "id": "4-c-1",
-          "title": "Доля учителей, обладающих минимальными требуемыми квалификациями для преподавания, в разбивке по образовательному уровню учреждения",
+          "title": "Proportion of teachers with the minimum required qualifications, by education leveli",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/4-c-1",
@@ -583,7 +583,7 @@
         
         {
           "id": "5-1-1",
-          "title": "Наличие или отсутствие нормативно-правовой базы для  поощрения и обеспечения равенства и недискриминации по признаку пола и наблюдения за положением в этой области",
+          "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/5-1-1",
@@ -591,7 +591,7 @@
         },
         {
           "id": "5-2-1",
-          "title": "Доля  когда-либо имевших партнера женщин и девочек в возрасте 15 лет и старше, подвергавшихся физическому, сексуальному или психологическому насилию со стороны нынешнего или бывшего интимного партнера в последние 12 месяцев, в разбивке по формам насилия и возрасту",
+          "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/5-2-1",
@@ -599,7 +599,7 @@
         },
         {
           "id": "5-2-2",
-          "title": "Доля  женщин и девочек в возрасте 15 лет и старше, подвергавшихся сексуальному насилию со стороны кого-либо, кроме интимных партнеров, в последние 12 месяцев, в разбивке по возрасту и месту происшествия",
+          "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/5-2-2",
@@ -607,7 +607,7 @@
         },
         {
           "id": "5-3-1",
-          "title": "Доля женщин в возрасте от 20 до 24 лет, вступивших в брак или союз до 15 лет и до 18 лет",
+          "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/5-3-1",
@@ -615,7 +615,7 @@
         },
         {
           "id": "5-3-2",
-          "title": "Доля девочек и женщин в возрасте от 15 до 49 лет, подвергшихся калечащим операциям на женских половых органах/обрезанию, в разбивке по возрасту",
+          "title": "Proportion of girls and women aged 15–49 years who have undergone female genital mutilation, by age",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/5-3-2",
@@ -623,7 +623,7 @@
         },
         {
           "id": "5-4-1",
-          "title": "Доля времени, затрачиваемого на неоплачиваемый труд по уходу и работу по дому, в разбивке по полу, возрасту и месту проживания",
+          "title": "Proportion of time spent on unpaid domestic and care work, by sex, age and location",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/5-4-1",
@@ -631,7 +631,7 @@
         },
         {
           "id": "5-5-1",
-          "title": "Доля мест, занимаемых женщинами в a) национальных парламентах и b) местных органах власти",
+          "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/5-5-1",
@@ -639,7 +639,7 @@
         },
         {
           "id": "5-5-2",
-          "title": "Доля женщин на руководящих должностях",
+          "title": "Proportion of women in managerial positions",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/5-5-2",
@@ -647,7 +647,7 @@
         },
         {
           "id": "5-6-1",
-          "title": "Доля женщин в возрасте от 15 до 49 лет, самостоятельно принимающих обдуманные решения о сексуальных отношениях, применении противозачаточных средств и обращении за услугами по охране репродуктивного здоровья",
+          "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/5-6-1",
@@ -655,7 +655,7 @@
         },
         {
           "id": "5-6-2",
-          "title": "Число стран, где действуют законы и нормативные акты, гарантирующие женщинам и мужчинам в возрасте от 15 лет полный и равный доступ к услугам по охране сексуального и репродуктивного здоровья и информации и просвещению в этой сфере",
+          "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/5-6-2",
@@ -663,7 +663,7 @@
         },
         {
           "id": "5-a-1",
-          "title": "a) Доля людей, владеющих сельскохозяйственной землей или имеющих гарантированное право пользования ею, в общей численности населения, занимающегося сельским хозяйством, в разбивке по полу; и b) доля женщин, владеющих сельскохозяйственной землей или являющихся носителями права владения ею, в разбивке по формам землевладения",
+          "title": "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/5-a-1",
@@ -671,7 +671,7 @@
         },
         {
           "id": "5-a-2",
-          "title": "Доля стран, в которых правовая база (в том числе обычное право) гарантирует женщинам равные права на владение и/или распоряжение землей",
+          "title": "Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/5-a-2",
@@ -679,7 +679,7 @@
         },
         {
           "id": "5-b-1",
-          "title": "Доля людей, имеющих мобильный телефон, в разбивке по полу",
+          "title": "Proportion of individuals who own a mobile telephone, by sex",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/5-b-1",
@@ -687,7 +687,7 @@
         },
         {
           "id": "5-c-1",
-          "title": "Доля стран, обладающих механизмами отслеживания государственных ассигнований на обеспечение гендерного равенства и расширение прав и возможностей женщин и обнародования данных о них",
+          "title": "Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/5-c-1",
@@ -703,15 +703,15 @@
         
         {
           "id": "6-1-1",
-          "title": "global_indicators.6-1-1_SH_H2O_SAFE-title",
+          "title": "Proportion of population using safely managed drinking water services",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/6-1-1",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "6-2-1",
-          "title": "Доля населения, использующего a) организованные с соблюдением требований безопасности услуги санитарии и b) устройства для мытья рук с мылом и водой",
+          "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/6-2-1",
@@ -719,7 +719,7 @@
         },
         {
           "id": "6-3-1",
-          "title": "Доля безопасно очищаемых хозяйственно-бытовых и промышленных сточных вод",
+          "title": "Proportion of domestic and industrial wastewater flows safely treated",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/6-3-1",
@@ -727,7 +727,7 @@
         },
         {
           "id": "6-3-2",
-          "title": "Доля водоемов с хорошим качеством воды",
+          "title": "Proportion of bodies of water with good ambient water quality",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/6-3-2",
@@ -735,7 +735,7 @@
         },
         {
           "id": "6-4-1",
-          "title": "Динамика изменения эффективности водопользования",
+          "title": "Change in water-use efficiency over time",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/6-4-1",
@@ -743,7 +743,7 @@
         },
         {
           "id": "6-4-2",
-          "title": "Уровень нагрузки на водные ресурсы: забор пресной воды в процентном отношении к имеющимся запасам пресной воды",
+          "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/6-4-2",
@@ -751,7 +751,7 @@
         },
         {
           "id": "6-5-1",
-          "title": "Степень внедрения комплексного управления водными ресурсами (от 0 до 100)",
+          "title": "Degree of integrated water resources management",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/6-5-1",
@@ -759,7 +759,7 @@
         },
         {
           "id": "6-5-2",
-          "title": "Доля трансграничных водных бассейнов, охваченных действующими договоренностями о сотрудничестве в области водопользования",
+          "title": "Proportion of transboundary basin area with an operational arrangement for water cooperation",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/6-5-2",
@@ -767,7 +767,7 @@
         },
         {
           "id": "6-6-1",
-          "title": "Динамика изменения площади связанных с водой экосистем",
+          "title": "Change in the extent of water-related ecosystems over time",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/6-6-1",
@@ -775,7 +775,7 @@
         },
         {
           "id": "6-a-1",
-          "title": "Объем официальной помощи в целях развития, выделенной на водоснабжение и санитарию в рамках координируемой государственной программы расходов",
+          "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/6-a-1",
@@ -783,7 +783,7 @@
         },
         {
           "id": "6-b-1",
-          "title": "Доля  местных административных единиц, в которых установлены и действуют правила и процедуры участия местных общин в улучшении водного хозяйства и санитарии",
+          "title": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/6-b-1",
@@ -799,7 +799,7 @@
         
         {
           "id": "7-1-1",
-          "title": "Доля населения, имеющего доступ к электроэнергии",
+          "title": "Proportion of population with access to electricity",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/7-1-1",
@@ -807,7 +807,7 @@
         },
         {
           "id": "7-1-2",
-          "title": "Доля населения, использующего в основном чистые виды топлива и технологии",
+          "title": "Proportion of population with primary reliance on clean fuels and technology",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/7-1-2",
@@ -815,7 +815,7 @@
         },
         {
           "id": "7-2-1",
-          "title": "Доля возобновляемых источников энергии в общем объеме конечного энергопотребления",
+          "title": "Renewable energy share in the total final energy consumption",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/7-2-1",
@@ -823,7 +823,7 @@
         },
         {
           "id": "7-3-1",
-          "title": "Энергоемкость, рассчитываемая как отношение расхода первичной энергии к ВВП",
+          "title": "Energy intensity measured in terms of primary energy and GDP",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/7-3-1",
@@ -831,7 +831,7 @@
         },
         {
           "id": "7-a-1",
-          "title": "Объем международных  финансовых потоков, поступающих в развивающиеся страны для поддержки исследований и разработок в области экологически чистой энергетики и получения энергии из возобновляемых источников, включая комбинированные системы",
+          "title": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/7-a-1",
@@ -839,7 +839,7 @@
         },
         {
           "id": "7-b-1",
-          "title": "Установленные в развивающихся странах генерирующие мощности на основе возобновляемых энергоносителей (в ваттах на душу населения) (повторяется в предлагаемой замене показателя 12.a.1, приведенной далее)",
+          "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/7-b-1",
@@ -855,7 +855,7 @@
         
         {
           "id": "8-1-1",
-          "title": "Ежегодные темпы роста реального ВВП на душу населения",
+          "title": "Annual growth rate of real GDP per capita",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/8-1-1",
@@ -863,7 +863,7 @@
         },
         {
           "id": "8-2-1",
-          "title": "Ежегодные темпы роста реального ВВП на каждого занятого",
+          "title": "Annual growth rate of real GDP per employed person",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/8-2-1",
@@ -871,7 +871,7 @@
         },
         {
           "id": "8-3-1",
-          "title": "Доля неформальной занятости от общей занятости в разбивке по сектору и полу",
+          "title": "Proportion of informal employment in total employment, by sector and sex",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/8-3-1",
@@ -879,7 +879,7 @@
         },
         {
           "id": "8-4-1",
-          "title": "Совокупные  ресурсозатраты, ресурсозатраты на душу населения и ресурсозатраты в процентном отношении к ВВП",
+          "title": "Material footprint, material footprint per capita, and material footprint per GDP",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/8-4-1",
@@ -887,7 +887,7 @@
         },
         {
           "id": "8-4-2",
-          "title": "Совокупное  внутреннее материальное потребление, внутреннее материальное потребление на душу населения и внутреннее материальное потребление в процентном отношении к ВВП",
+          "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/8-4-2",
@@ -895,7 +895,7 @@
         },
         {
           "id": "8-5-1",
-          "title": "Средний почасовой заработок женщин и мужчин в разбивке по роду занятий, возрасту и признаку инвалидности",
+          "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/8-5-1",
@@ -903,7 +903,7 @@
         },
         {
           "id": "8-5-2",
-          "title": "Уровень безработицы в разбивке по полу, возрасту и признаку инвалидности",
+          "title": "Unemployment rate, by sex, age and persons with disabilities",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/8-5-2",
@@ -911,7 +911,7 @@
         },
         {
           "id": "8-6-1",
-          "title": "Доля молодежи (в возрасте от 15 до 24 лет), которая не учится, не работает и не приобретает профессиональных навыков",
+          "title": "Proportion of youth (aged 15–24 years) not in education, employment or training",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/8-6-1",
@@ -919,7 +919,7 @@
         },
         {
           "id": "8-7-1",
-          "title": "Доля и число детей в возрасте от 5 до 17 лет, занятых детским трудом, в разбивке по полу и возрасту",
+          "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/8-7-1",
@@ -927,7 +927,7 @@
         },
         {
           "id": "8-8-1",
-          "title": "Производственный травматизм со смертельным и несмертельным исходом в разбивке по полу и миграционному статусу",
+          "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/8-8-1",
@@ -935,7 +935,7 @@
         },
         {
           "id": "8-8-2",
-          "title": "Уровень  соблюдения государством трудовых прав (свободы объединений и заключения коллективных трудовых договоров) на основе документальных источников Международной организации труда (МОТ) и национального законодательства в разбивке по полу и миграционному статусу",
+          "title": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/8-8-2",
@@ -943,7 +943,7 @@
         },
         {
           "id": "8-9-1",
-          "title": "Непосредственный  вклад туризма в совокупный ВВП и в темпы роста",
+          "title": "Tourism direct GDP as a proportion of total GDP and in growth rate",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/8-9-1",
@@ -951,7 +951,7 @@
         },
         {
           "id": "8-10-1",
-          "title": "Число  a) филиалов коммерческих банков на 100 000 взрослых и b) банкоматов на 100 000 взрослых",
+          "title": "(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/8-10-1",
@@ -959,7 +959,7 @@
         },
         {
           "id": "8-10-2",
-          "title": "Доля  взрослых (15 лет и старше), имеющих счет в банке или ином финансовом учреждении или пользующихся услугами операторов мобильных финансовых услуг",
+          "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/8-10-2",
@@ -967,7 +967,7 @@
         },
         {
           "id": "8-a-1",
-          "title": "Объем обязательств и выплат в рамках инициативы «Помощь в торговле»",
+          "title": "Aid for Trade commitments and disbursements",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/8-a-1",
@@ -975,7 +975,7 @@
         },
         {
           "id": "8-b-1",
-          "title": "Наличие разработанной и осуществляемой национальной стратегии молодежной занятости в качестве отдельной стратегии или в рамках национальной стратегии в области занятости",
+          "title": "Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/8-b-1",
@@ -991,7 +991,7 @@
         
         {
           "id": "9-1-1",
-          "title": "Доля  сельского населения, проживающего в пределах 2 км от всесезонной дороги",
+          "title": "Proportion of the rural population who live within 2 km of an all-season road",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/9-1-1",
@@ -999,7 +999,7 @@
         },
         {
           "id": "9-1-2",
-          "title": "Объем пассажирских и грузовых перевозок в разбивке по видам транспорта",
+          "title": "Passenger and freight volumes, by mode of transport",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/9-1-2",
@@ -1007,7 +1007,7 @@
         },
         {
           "id": "9-2-1",
-          "title": "Добавленная стоимость, создаваемая в обрабатывающей промышленности, в процентном отношении к ВВП и на душу населения",
+          "title": "Manufacturing value added as a proportion of GDP and per capita",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/9-2-1",
@@ -1015,7 +1015,7 @@
         },
         {
           "id": "9-2-2",
-          "title": "Занятость в обрабатывающей промышленности в процентах от общей занятости",
+          "title": "Manufacturing employment as a proportion of total employment",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/9-2-2",
@@ -1023,7 +1023,7 @@
         },
         {
           "id": "9-3-1",
-          "title": "Доля мелких предприятий в совокупном объеме чистой продукции промышленности",
+          "title": "Proportion of small-scale industries in total industry value added",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/9-3-1",
@@ -1031,7 +1031,7 @@
         },
         {
           "id": "9-3-2",
-          "title": "Доля мелких предприятий, имеющих кредит или кредитную линию",
+          "title": "Proportion of small-scale industries with a loan or line of credit",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/9-3-2",
@@ -1039,7 +1039,7 @@
         },
         {
           "id": "9-4-1",
-          "title": "Выбросы CO2 на единицу добавленной стоимости",
+          "title": "CO2 emission per unit of value added",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/9-4-1",
@@ -1047,7 +1047,7 @@
         },
         {
           "id": "9-5-1",
-          "title": "Доля расходов на научно-исследовательские и опытно-конструкторские работы в ВВП",
+          "title": "Research and development expenditure as a proportion of GDP",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/9-5-1",
@@ -1055,7 +1055,7 @@
         },
         {
           "id": "9-5-2",
-          "title": "Количество исследователей (в эквиваленте полной занятости) на миллион жителей",
+          "title": "Researchers (in full-time equivalent) per million inhabitants",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/9-5-2",
@@ -1063,7 +1063,7 @@
         },
         {
           "id": "9-a-1",
-          "title": "Совокупный  объем официальной международной поддержки (официальной помощи в целях развития и других потоков официального финансирования), направляемой на цели инфраструктуры",
+          "title": "Total official international support (official development assistance plus other official flows) to infrastructure",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/9-a-1",
@@ -1071,7 +1071,7 @@
         },
         {
           "id": "9-b-1",
-          "title": "Доля добавленной стоимости продукции среднетехнологичных и высокотехнологичных отраслей в общем объеме добавленной стоимости",
+          "title": "Proportion of medium and high-tech industry value added in total value added",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/9-b-1",
@@ -1079,7 +1079,7 @@
         },
         {
           "id": "9-c-1",
-          "title": "Доля населения, охваченного мобильными сетями, в разбивке по технологиям",
+          "title": "Proportion of population covered by a mobile network, by technology",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/9-c-1",
@@ -1095,7 +1095,7 @@
         
         {
           "id": "10-1-1",
-          "title": "Темпы роста расходов домохозяйств или доходов на душу населения среди наименее обеспеченных 40 процентов населения и среди населения в целом",
+          "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/10-1-1",
@@ -1103,7 +1103,7 @@
         },
         {
           "id": "10-2-1",
-          "title": "Доля людей с доходом ниже 50 процентов медианного дохода в разбивке по полу, возрасту и признаку инвалидности",
+          "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/10-2-1",
@@ -1111,7 +1111,7 @@
         },
         {
           "id": "10-3-1",
-          "title": "Доля  лиц, сообщивших о том, что в последние 12 месяцев они лично подвергались дискриминации или преследованиям на основаниях, дискриминация по которым запрещена в соответствии с международными стандартами в области прав человека",
+          "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/10-3-1",
@@ -1119,7 +1119,7 @@
         },
         {
           "id": "10-4-1",
-          "title": "Доля доходов трудящихся в ВВП, в том числе заработная плата и выплаты по линии социальной защиты",
+          "title": "Labour share of GDP",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/10-4-1",
@@ -1127,7 +1127,7 @@
         },
         {
           "id": "10-4-2",
-          "title": "Перераспределительный эффект фискальной политики",
+          "title": "Redistributive impact of fiscal policy",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/10-4-2",
@@ -1135,7 +1135,7 @@
         },
         {
           "id": "10-5-1",
-          "title": "Показатели финансовой устойчивости",
+          "title": "Financial Soundness Indicators",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/10-5-1",
@@ -1143,7 +1143,7 @@
         },
         {
           "id": "10-6-1",
-          "title": "Доля развивающихся стран в членском составе международных организаций и удельный вес их голосов",
+          "title": "Proportion of members and voting rights of developing countries in international organizations",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/10-6-1",
@@ -1151,7 +1151,7 @@
         },
         {
           "id": "10-7-1",
-          "title": "Затраты работника на трудоустройство в процентах от его месячного дохода в стране назначения",
+          "title": "Recruitment cost borne by employee as a proportion of monthly income earned in country of destination",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/10-7-1",
@@ -1159,7 +1159,7 @@
         },
         {
           "id": "10-7-2",
-          "title": "Число стран, проводящих миграционную политику, способствующую упорядоченной, безопасной, законной и ответственной миграции и мобильности людей",
+          "title": "Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/10-7-2",
@@ -1167,7 +1167,7 @@
         },
         {
           "id": "10-7-3",
-          "title": "Количество людей, погибших или исчезнувших в процессе миграции в направлении международного назначения+B180",
+          "title": "Number of people who died or disappeared in the process of migration towards an international destinationi",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/10-7-3",
@@ -1175,7 +1175,7 @@
         },
         {
           "id": "10-7-4",
-          "title": "Доля беженцев от общей численности населения в разбивке по стране происхождения",
+          "title": "Proportion of the population who are refugees, by country of origin",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/10-7-4",
@@ -1183,7 +1183,7 @@
         },
         {
           "id": "10-a-1",
-          "title": "Доля товарных позиций наименее развитых стран и развивающихся стран, к которым применяются нулевые тарифы",
+          "title": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/10-a-1",
@@ -1191,7 +1191,7 @@
         },
         {
           "id": "10-b-1",
-          "title": "Совокупный объем потоков ресурсов в целях развития в разбивке по странам-получателям и странам-донорам и видам потоков (например, официальная помощь в целях развития, прямые иностранные инвестиции и прочие финансовые потоки)",
+          "title": "Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/10-b-1",
@@ -1199,7 +1199,7 @@
         },
         {
           "id": "10-c-1",
-          "title": "Стоимость перевода в процентном отношениик переводимой сумме",
+          "title": "Remittance costs as a proportion of the amount remitted",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/10-c-1",
@@ -1215,7 +1215,7 @@
         
         {
           "id": "11-1-1",
-          "title": "Доля городского населения, проживающего в трущобах, неформальных поселениях или в неудовлетворительных жилищных условиях",
+          "title": "Proportion of urban population living in slums, informal settlements or inadequate housing",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/11-1-1",
@@ -1223,7 +1223,7 @@
         },
         {
           "id": "11-2-1",
-          "title": "Доля населения, имеющего удобный доступ к общественному транспорту, в разбивке по полу, возрасту и признаку инвалидности",
+          "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/11-2-1",
@@ -1231,7 +1231,7 @@
         },
         {
           "id": "11-3-1",
-          "title": "Соотношение темпов застройки и темпов роста населения",
+          "title": "Ratio of land consumption rate to population growth rate",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/11-3-1",
@@ -1239,7 +1239,7 @@
         },
         {
           "id": "11-3-2",
-          "title": "Доля городов, в которых регулярно и на демократической основе функционируют структуры, обеспечивающие прямое участие гражданского общества в градостроительном планировании и управлении городским хозяйством",
+          "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/11-3-2",
@@ -1247,7 +1247,7 @@
         },
         {
           "id": "11-4-1",
-          "title": "Общая сумма расходов (государственных и частных) в расчете на душу населения на цели сохранения и защиты всего культурного и природного наследия в разбивке по видам наследия (культурное, природное, смешанного характера и признанное объектом всемирного наследия Центром всемирного наследия), уровню государственной подведомственности (национальный, региональный и местный/ муниципальный), видам расходов (эксплуатационные расходы/капиталовложения) и видам частного финансирования (пожертвования в натуральной форме, частный некоммерческий сектор и спонсорство)",
+          "title": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/11-4-1",
@@ -1255,7 +1255,7 @@
         },
         {
           "id": "11-5-1",
-          "title": "Число погибших, пропавших без вести и пострадавших непосредственно в результате бедствий на 100 000 человек",
+          "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/11-5-1",
@@ -1263,7 +1263,7 @@
         },
         {
           "id": "11-5-2",
-          "title": "Прямые экономические потери в процентном отношении к общемировому ВВП, ущерб важнейшим объектам инфраструктуры и число обусловленных бедствиями сбоев в работе основных служб",
+          "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/11-5-2",
@@ -1279,7 +1279,7 @@
         },
         {
           "id": "11-6-1",
-          "title": "Доля коммунально-бытовых твердых отходов, которые собираются и удаляются на контролируемых объектах, от общей массы коммунально-бытовых твердых отходов, в разбивке по городам",
+          "title": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/11-6-1",
@@ -1287,7 +1287,7 @@
         },
         {
           "id": "11-6-2",
-          "title": "Среднегодовой уровень содержания мелких твердых частиц (например, класса PM2.5 и PM10) в атмосфере городов (в пересчете на численность населения)",
+          "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/11-6-2",
@@ -1295,7 +1295,7 @@
         },
         {
           "id": "11-7-1",
-          "title": "Средняя доля застроенной городской территории, относящейся к открытым для всех общественным местам, с указанием доступности в разбивке по полу, возрасту и признаку инвалидности",
+          "title": "Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/11-7-1",
@@ -1303,7 +1303,7 @@
         },
         {
           "id": "11-7-2",
-          "title": "Доля лиц, подвергшихся физическим или сексуальным домогательствам, в разбивке по полу, возрасту, признаку инвалидности и месту происшествия за последние 12 месяцев",
+          "title": "Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/11-7-2",
@@ -1311,7 +1311,7 @@
         },
         {
           "id": "11-a-1",
-          "title": "Число стран, в которых приняты национальные программы развития городов или региональные планы застройки, в которых a) учитывается динамика численности населения; b) предусмотрено сбалансированное территориальное развитие; и c) расширены возможности маневра бюджетными средствами",
+          "title": "Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/11-a-1",
@@ -1319,7 +1319,7 @@
         },
         {
           "id": "11-b-1",
-          "title": "Число стран, принявших и осуществляющих национальные стратегии снижения риска бедствий в соответствии с Сендайской рамочной программой по снижению риска бедствий на 2015–2030 годы",
+          "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/11-b-1",
@@ -1327,7 +1327,7 @@
         },
         {
           "id": "11-b-2",
-          "title": "Доля местных органов власти, принявших и осуществляющих местные стратегии снижения риска бедствий в соответствии с национальными стратегиями снижения риска бедствий",
+          "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/11-b-2",
@@ -1343,7 +1343,7 @@
         
         {
           "id": "12-1-1",
-          "title": "Число стран, имеющих национальный план действий по переходу к рациональным моделям потребления и производства или включивших рациональное потребление и производство в качестве приоритета или задачи в национальную стратегию",
+          "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/12-1-1",
@@ -1351,7 +1351,7 @@
         },
         {
           "id": "12-2-1",
-          "title": "Совокупные ресурсозатраты и ресурсозатраты на душу населения и в процентном отношении к ВВП",
+          "title": "Material footprint, material footprint per capita, and material footprint per GDP",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/12-2-1",
@@ -1359,7 +1359,7 @@
         },
         {
           "id": "12-2-2",
-          "title": "Совокупное внутреннее материальное потребление и внутреннее материальное потребление на душу населения и в процентном отношении к ВВП",
+          "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/12-2-2",
@@ -1367,7 +1367,7 @@
         },
         {
           "id": "12-3-1",
-          "title": "a) Индекс потерь продовольствия и b) индекс пищевых отходов",
+          "title": "(a) Food loss index and (b) food waste index",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/12-3-1",
@@ -1375,7 +1375,7 @@
         },
         {
           "id": "12-4-1",
-          "title": "Число сторон международных многосторонних экологических соглашений по опасным и иным химических веществам и отходам, выполняющих свои обязательства и обязанности по передаче информации в соответствии с требованиями каждого соглашения",
+          "title": "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/12-4-1",
@@ -1383,7 +1383,7 @@
         },
         {
           "id": "12-4-2",
-          "title": "Образование опасных отходов на душу населения и доля обрабатываемых опасных отходов в разбивке по видам обработки",
+          "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/12-4-2",
@@ -1391,7 +1391,7 @@
         },
         {
           "id": "12-5-1",
-          "title": "Национальный  уровень переработки отходов, вес переработанных материалов в тоннах",
+          "title": "National recycling rate, tons of material recycled",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/12-5-1",
@@ -1399,7 +1399,7 @@
         },
         {
           "id": "12-6-1",
-          "title": "Число компаний, публикующих отчеты о рациональном использовании ресурсов",
+          "title": "Number of companies publishing sustainability reports",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/12-6-1",
@@ -1407,7 +1407,7 @@
         },
         {
           "id": "12-7-1",
-          "title": "Число стран, осуществляющих стратегии и планы действий по экологизации государственных закупок",
+          "title": "Number of countries implementing sustainable public procurement policies and action plans",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/12-7-1",
@@ -1415,7 +1415,7 @@
         },
         {
           "id": "12-8-1",
-          "title": "Статус i) воспитания в духе всемирной гражданственности и ii) пропаганды устойчивого развития (включая просвещение по проблеме изменения климата) a) в национальной политике в сфере образования; b) в учебных программах; c) в программах подготовки учителей; и d) в системе аттестации учащихся",
+          "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/12-8-1",
@@ -1423,7 +1423,7 @@
         },
         {
           "id": "12-a-1",
-          "title": "Установленные в развивающихся странах генерирующие мощности на основе возобновляемых энергоносителей (в ваттах на душу населения) (повтор предлагаемой замены показателя 7.b.1)",
+          "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/12-a-1",
@@ -1431,7 +1431,7 @@
         },
         {
           "id": "12-b-1",
-          "title": "Внедрение стандартных методов учета в целях отслеживания экономических и экологических характеристик устойчивости туризма",
+          "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/12-b-1",
@@ -1439,7 +1439,7 @@
         },
         {
           "id": "12-c-1",
-          "title": "Сумма субсидий на ископаемое топливо на единицу ВВП (производство и потребление) и их доля в совокупных национальных расходах на ископаемое топливо",
+          "title": "Amount of fossil-fuel subsidies (production and consumption) per unit of GDP",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/12-c-1",
@@ -1455,7 +1455,7 @@
         
         {
           "id": "13-1-1",
-          "title": "Число погибших, пропавших без вести и пострадавших непосредственно в результате бедствий на 100 000 человек",
+          "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/13-1-1",
@@ -1463,7 +1463,7 @@
         },
         {
           "id": "13-1-2",
-          "title": "Число стран, принявших и осуществляющих национальные стратегии снижения риска бедствий в соответствии с Сендайской рамочной программой по снижению риска бедствий на 2015–2030 годы",
+          "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/13-1-2",
@@ -1471,7 +1471,7 @@
         },
         {
           "id": "13-1-3",
-          "title": "Доля местных органов власти, принявших и осуществляющих местные стратегии снижения риска бедствий в соответствии с национальными стратегиями снижения риска бедствий",
+          "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/13-1-3",
@@ -1479,7 +1479,7 @@
         },
         {
           "id": "13-2-1",
-          "title": "Число стран с определяемыми на национальном уровне вкладами, долгосрочными стратегиями, национальными адаптационными планами, стратегиями в соответствии с информацией, которая предоставляется в сообщениях по вопросам адаптации и национальных сообщениях (с небольшими изменениями повторяется в приведенной далее предлагаемой замене показателя 13.b.1)",
+          "title": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/13-2-1",
@@ -1487,7 +1487,7 @@
         },
         {
           "id": "13-2-2",
-          "title": "Совокупный годовой объем выбросов парниковых газов",
+          "title": "Total greenhouse gas emissions per year",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/13-2-2",
@@ -1495,7 +1495,7 @@
         },
         {
           "id": "13-3-1",
-          "title": "Степень, в которой i) воспитание в духе глобальной гражданственности и ii) образование в интересах устойчивого развития всесторонне учитываются в a) национальной политике в сфере образования; b) учебных планах; c) подготовке учителей; и d) оценке учащихся (повтор предлагаемой корректировки показателей 4.7.1 и 12.8.1, которые приводятся в приложении III)",
+          "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/13-3-1",
@@ -1503,7 +1503,7 @@
         },
         {
           "id": "13-a-1",
-          "title": "Суммы (в долларах США), выделяемые и мобилизуемые ежегодно в соответствии с существующей постоянной коллективной целью по мобилизации 100 млрд долл. США до 2025 года",
+          "title": "Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/13-a-1",
@@ -1511,7 +1511,7 @@
         },
         {
           "id": "13-b-1",
-          "title": "Число наименее развитых стран и малых островных развивающихся государств с определяемыми на национальном уровне вкладами, долгосрочными стратегиями, национальными адаптационными планами, стратегиями, в соответствии с информацией, которая предоставляется в сообщениях по вопросам адаптации и национальных сообщениях (повтор приведенной выше предлагаемой замены показателя 13.2.1 с незначительными изменениями)",
+          "title": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/13-b-1",
@@ -1527,7 +1527,7 @@
         
         {
           "id": "14-1-1",
-          "title": "a) Индекс прибрежной эвтрофикации и b) плотность лома пластмасс+B246",
+          "title": "(a) Index of coastal eutrophication; and (b) plastic debris density",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/14-1-1",
@@ -1535,7 +1535,7 @@
         },
         {
           "id": "14-2-1",
-          "title": "Доля национальных исключительных экономических зон, в управлении которыми применяются экосистемные подходы",
+          "title": "Number of countries using ecosystem-based approaches to managing marine areas",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/14-2-1",
@@ -1543,7 +1543,7 @@
         },
         {
           "id": "14-3-1",
-          "title": "Средняя кислотность (pH) морской воды, измеряемая в согласованной группе репрезентативных станций отбора проб",
+          "title": "Average marine acidity (pH) measured at agreed suite of representative sampling stations",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/14-3-1",
@@ -1551,7 +1551,7 @@
         },
         {
           "id": "14-4-1",
-          "title": "Доля рыбных запасов, находящихся в биологически устойчивых пределах",
+          "title": "Proportion of fish stocks within biologically sustainable levels",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/14-4-1",
@@ -1559,7 +1559,7 @@
         },
         {
           "id": "14-5-1",
-          "title": "Отношение  площади охраняемых районов к общей площади морских районов",
+          "title": "Coverage of protected areas in relation to marine areas",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/14-5-1",
@@ -1567,7 +1567,7 @@
         },
         {
           "id": "14-6-1",
-          "title": "Степень соблюдения международно-правовых документов по борьбе с незаконным, несообщаемым и нерегулируемым рыбным промыслом",
+          "title": "Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/14-6-1",
@@ -1575,7 +1575,7 @@
         },
         {
           "id": "14-7-1",
-          "title": "Экологически рациональный рыбный промысел в процентах от ВВП в малых островных развивающихся государствах, в наименее развитых странах и во всех странах",
+          "title": "Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/14-7-1",
@@ -1583,7 +1583,7 @@
         },
         {
           "id": "14-a-1",
-          "title": "Доля бюджетных ассигнований на научные исследования в области морских технологий в общем объеме бюджетных ассигнований на научные исследования",
+          "title": "Proportion of total research budget allocated to research in the field of marine technology",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/14-a-1",
@@ -1591,7 +1591,7 @@
         },
         {
           "id": "14-b-1",
-          "title": "Степень применения нормативно-правовых/ стратегических/институциональных рамок, обеспечивающих признание и защиту прав доступа мелких рыбопромысловых предприятий",
+          "title": "Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/14-b-1",
@@ -1599,7 +1599,7 @@
         },
         {
           "id": "14-c-1",
-          "title": "Число  стран, добившихся прогресса в ратификации, принятии и осуществлении, с использованием правовых, стратегических и институциональных рамок, правовых документов по вопросам Мирового океана, направленных на осуществление закрепленных в Конвенции Организации Объединенных Наций по морскому праву норм международного права, касающихся сохранения и рационального использования Мирового океана и его ресурсов",
+          "title": "Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/14-c-1",
@@ -1615,7 +1615,7 @@
         
         {
           "id": "15-1-1",
-          "title": "Площадь лесов в процентном отношении к общей площади суши",
+          "title": "Forest area as a proportion of total land area",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/15-1-1",
@@ -1623,7 +1623,7 @@
         },
         {
           "id": "15-1-2",
-          "title": "Доля важных с точки зрения биологического разнообразия районов суши и пресноводных районов, находящихся под охраной, в разбивке по видам экосистем",
+          "title": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/15-1-2",
@@ -1631,7 +1631,7 @@
         },
         {
           "id": "15-2-1",
-          "title": "Прогресс в переходе на неистощительное ведение лесного хозяйства",
+          "title": "Progress towards sustainable forest management",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/15-2-1",
@@ -1639,7 +1639,7 @@
         },
         {
           "id": "15-3-1",
-          "title": "Отношение  площади деградировавших земель к общей площади земель",
+          "title": "Proportion of land that is degraded over total land area",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/15-3-1",
@@ -1647,7 +1647,7 @@
         },
         {
           "id": "15-4-1",
-          "title": "Доля  важных с точки зрения биологического разнообразия горных районов, находящихся под охраной",
+          "title": "Coverage by protected areas of important sites for mountain biodiversity",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/15-4-1",
@@ -1655,7 +1655,7 @@
         },
         {
           "id": "15-4-2",
-          "title": "Индекс растительного покрова гор",
+          "title": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/15-4-2",
@@ -1663,7 +1663,7 @@
         },
         {
           "id": "15-5-1",
-          "title": "Индекс Красного списка",
+          "title": "Red List Index",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/15-5-1",
@@ -1671,7 +1671,7 @@
         },
         {
           "id": "15-6-1",
-          "title": "Число стран, принявших комплексы законодательных, административных и директивных мер, обеспечивающих получение выгод на справедливой и равной основе",
+          "title": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/15-6-1",
@@ -1679,7 +1679,7 @@
         },
         {
           "id": "15-7-1",
-          "title": "Доля диких животных, являющихся объектом браконьерства или незаконного оборота, среди видов, которыми ведется торговля",
+          "title": "Proportion of traded wildlife that was poached or illicitly trafficked",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/15-7-1",
@@ -1687,7 +1687,7 @@
         },
         {
           "id": "15-8-1",
-          "title": "Доля стран, принимающих соответствующее национальное законодательство и выделяющих достаточные ресурсы для предотвращения проникновения или регулирования численности чужеродных инвазивных видов",
+          "title": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/15-8-1",
@@ -1695,7 +1695,7 @@
         },
         {
           "id": "15-9-1",
-          "title": "a) Число стран, установивших в своей национальной стратегии и плане действий в области биоразнообразия национальные целевые показатели в соответствии с Айтинской целевой задачей 2 по биоразнообразию в рамках Стратегического плана по биоразнообразию на 2011–2020 годы или аналогичные и отслеживающие ход достижения таких целевых показателей; b) интеграция биоразнообразия в национальные системы учета и отчетности, относимая к внедрению Системы эколого-экономического учета",
+          "title": "(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress r",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/15-9-1",
@@ -1703,7 +1703,7 @@
         },
         {
           "id": "15-a-1",
-          "title": "a) Объем официальной помощи в целях развития, выделяемой на сохранение и рациональное использование биоразнообразия; и b) поступления, полученные вследствие использования экономических инструментов сохранения биоразнообразия, и мобилизованное с помощью таких инструментов финансирование",
+          "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/15-a-1",
@@ -1711,7 +1711,7 @@
         },
         {
           "id": "15-b-1",
-          "title": "a) Объем официальной помощи в целях развития, выделяемой на сохранение и рациональное использование биоразнообразия; и b) поступления, полученные вследствие использования экономических инструментов сохранения биоразнообразия, и мобилизованное с помощью таких инструментов финансирование",
+          "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/15-b-1",
@@ -1719,7 +1719,7 @@
         },
         {
           "id": "15-c-1",
-          "title": "Доля диких животных, являющихся объектом браконьерства или незаконного оборота, среди видов, которыми ведется торговля",
+          "title": "Proportion of traded wildlife that was poached or illicitly trafficked",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/15-c-1",
@@ -1735,7 +1735,7 @@
         
         {
           "id": "16-1-1",
-          "title": "Число  жертв умышленных убийств на 100 000 человек в разбивке по полу и возрасту",
+          "title": "Number of victims of intentional homicide per 100,000 population, by sex and age",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-1-1",
@@ -1743,7 +1743,7 @@
         },
         {
           "id": "16-1-2",
-          "title": "Число связанных с конфликтами смертей на 100 000 человек (в разбивке по возрастной группе, полу и причине)",
+          "title": "Conflict-related deaths per 100,000 population, by sex, age and cause",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-1-2",
@@ -1751,7 +1751,7 @@
         },
         {
           "id": "16-1-3",
-          "title": "Доля населения, в последние 12 месяцев подвергшегося a) физическому, b) психологическому и c) сексуальному насилию",
+          "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-1-3",
@@ -1759,7 +1759,7 @@
         },
         {
           "id": "16-1-4",
-          "title": "Доля  лиц, которые считают, что в их районе находиться на улице в одиночестве безопасно",
+          "title": "Proportion of population that feel safe walking alone around the area they live",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-1-4",
@@ -1767,7 +1767,7 @@
         },
         {
           "id": "16-2-1",
-          "title": "Число  связанных с конфликтами смертей на 100 000 человек в разбивке по полу, возрасту и причине",
+          "title": "Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-2-1",
@@ -1775,7 +1775,7 @@
         },
         {
           "id": "16-2-2",
-          "title": "Число жертв торговли людьми на 100 000 человек в разбивке по полу, возрасту и форме эксплуатации",
+          "title": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-2-2",
@@ -1783,7 +1783,7 @@
         },
         {
           "id": "16-2-3",
-          "title": "Доля  молодых женщин и мужчин в возрасте от 18 до 29 лет, подвергшихся сексуальному насилию до достижения ими 18-летнего возраста",
+          "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-2-3",
@@ -1791,7 +1791,7 @@
         },
         {
           "id": "16-3-1",
-          "title": "Доля жертв насилия, которые в последние 12 месяцев подали соответствующую жалобу в компетентные органы или другие официально признанные механизмы урегулирования конфликтов",
+          "title": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-3-1",
@@ -1799,7 +1799,7 @@
         },
         {
           "id": "16-3-2",
-          "title": "Доля  лиц, задерживаемых до вынесения приговора, в общей численности заключенных",
+          "title": "Unsentenced detainees as a proportion of overall prison population",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-3-2",
@@ -1807,7 +1807,7 @@
         },
         {
           "id": "16-3-3",
-          "title": "Доля населения, участвовавшая за последние два года в споре и воспользовавшаяся официальным или неофициальным механизмом урегулирования спора, в разбивке по типу механизма",
+          "title": "Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-3-3",
@@ -1815,7 +1815,7 @@
         },
         {
           "id": "16-4-1",
-          "title": "Общий объем входящих и исходящих незаконных финансовых потоков (в долларах США в текущих ценах)",
+          "title": "Total value of inward and outward illicit financial flows (in current United States dollars)",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-4-1",
@@ -1823,7 +1823,7 @@
         },
         {
           "id": "16-4-2",
-          "title": "Доля изъятого, обнаруженного или сданного оружия, незаконное происхождение или обстоятельства приобретения которого было отслежено или установлено компетентным органом в соответствии с международными документами",
+          "title": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-4-2",
@@ -1831,7 +1831,7 @@
         },
         {
           "id": "16-5-1",
-          "title": "Доля лиц, которые в предыдущие 12 месяцев хотя бы один раз имели контакт с государственным должностным лицом и которые заплатили взятку государственному должностному лицу или от которых это государственное должностное лицо требовало взятку",
+          "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-5-1",
@@ -1839,7 +1839,7 @@
         },
         {
           "id": "16-5-2",
-          "title": "Доля коммерческих компаний, которые в предыдущие 12 месяцев хотя бы один раз имели контакт с государственным должностным лицом и которые заплатили взятку государственному должностному лицу или от которых это государственное должностное лицо требовало взятку",
+          "title": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-5-2",
@@ -1847,7 +1847,7 @@
         },
         {
           "id": "16-6-1",
-          "title": "Первичные расходы правительства в процентном отношении к первоначальному утвержденному бюджету в разбивке по секторам (по кодам бюджетной классификации или аналогичным категориям)",
+          "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-6-1",
@@ -1855,7 +1855,7 @@
         },
         {
           "id": "16-6-2",
-          "title": "Доля  населения, удовлетворенного последним опытом использования государственных услуг",
+          "title": "Proportion of population satisfied with their last experience of public services",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-6-2",
@@ -1863,7 +1863,7 @@
         },
         {
           "id": "16-7-1",
-          "title": "Доля должностей в национальных и местных учреждениях, в том числе a) в законодательных собраниях; b) на государственной службе; c) в судебных органах, в сравнении с национальным распределением в разбивке по возрастной группе, полу, признаку инвалидности и группе населения",
+          "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-7-1",
@@ -1871,7 +1871,7 @@
         },
         {
           "id": "16-7-2",
-          "title": "Доля  населения, считающего, что процесс принятия решений является всеобъемлющим и гибким, в разбивке по полу, возрасту, признаку инвалидности и прочим группам населения",
+          "title": "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-7-2",
@@ -1879,7 +1879,7 @@
         },
         {
           "id": "16-8-1",
-          "title": "Доля развивающихся стран в членском составе международных организаций и удельный вес их голосов",
+          "title": "Proportion of members and voting rights of developing countries in international organizations",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-8-1",
@@ -1887,7 +1887,7 @@
         },
         {
           "id": "16-9-1",
-          "title": "Доля детей в возрасте до пяти лет, рождение которых было зарегистрировано в гражданских органах, в разбивке по возрасту",
+          "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-9-1",
@@ -1895,7 +1895,7 @@
         },
         {
           "id": "16-10-1",
-          "title": "Число подтвержденных случаев убийства, похищения, насильственного исчезновения, произвольного задержания и пыток журналистов и связанных с ними представителей средств массовой информации, профсоюзных деятелей и правозащитников в последние 12 месяцев",
+          "title": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-10-1",
@@ -1903,7 +1903,7 @@
         },
         {
           "id": "16-10-2",
-          "title": "Число стран, в которых приняты и действуют конституционные, законодательные и/или политические гарантии доступа граждан к информации",
+          "title": "Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-10-2",
@@ -1911,7 +1911,7 @@
         },
         {
           "id": "16-a-1",
-          "title": "Наличие независимых национальных правозащитных институтов, действующих в соответствии с Парижскими принципами",
+          "title": "Existence of independent national human rights institutions in compliance with the Paris Principles",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-a-1",
@@ -1919,7 +1919,7 @@
         },
         {
           "id": "16-b-1",
-          "title": "Доля  лиц, сообщивших о том, что в последние 12 месяцев они лично подвергались дискриминации или преследованиям на основаниях, дискриминация по которым запрещена в соответствии с международными стандартами в области прав человека",
+          "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/16-b-1",
@@ -1935,7 +1935,7 @@
         
         {
           "id": "17-1-1",
-          "title": "Общий объем государственных доходов в процентном отношении к ВВП в разбивке по источникам",
+          "title": "Total government revenue as a proportion of GDP, by source",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-1-1",
@@ -1943,7 +1943,7 @@
         },
         {
           "id": "17-1-2",
-          "title": "Доля  национального бюджета, финансируемая за счет внутренних налогов",
+          "title": "Proportion of domestic budget funded by domestic taxes",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-1-2",
@@ -1951,7 +1951,7 @@
         },
         {
           "id": "17-2-1",
-          "title": "Чистый  объем официальной помощи в целях развития (как суммарной, так и выделяемой наименее развитым странам) как доля валового национального дохода доноров из числа членов Комитета содействия развитию ОЭСР",
+          "title": "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-2-1",
@@ -1959,7 +1959,7 @@
         },
         {
           "id": "17-3-1",
-          "title": "Доля средств, поступающих по линии прямых иностранных инвестиций, официальной помощи в целях развития и сотрудничества Юг — Юг, от валового национального дохода",
+          "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-3-1",
@@ -1967,7 +1967,7 @@
         },
         {
           "id": "17-3-2",
-          "title": "Доля  денежных переводов (в долларах США) в совокупном ВВП",
+          "title": "Volume of remittances (in United States dollars) as a proportion of total GDP",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-3-2",
@@ -1975,7 +1975,7 @@
         },
         {
           "id": "17-4-1",
-          "title": "Доля  поступлений от экспорта товаров и услуг, расходуемая на обслуживание долга",
+          "title": "Debt service as a proportion of exports of goods and services",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-4-1",
@@ -1983,7 +1983,7 @@
         },
         {
           "id": "17-5-1",
-          "title": "Число стран, в которых приняты и действуют режимы поощрения инвестиций в интересах развивающихся стран, включая наименее развитые страны",
+          "title": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-5-1",
@@ -1991,7 +1991,7 @@
         },
         {
           "id": "17-6-1",
-          "title": "Число стационарных абонентов широкополосного Интернета в разбивке по скорости",
+          "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-6-1",
@@ -1999,7 +1999,7 @@
         },
         {
           "id": "17-7-1",
-          "title": "Общая сумма утвержденного финансирования для развивающихся стран в целях содействия разработке, передаче, распространению и освоению экологически безопасных технологий",
+          "title": "Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-7-1",
@@ -2007,7 +2007,7 @@
         },
         {
           "id": "17-8-1",
-          "title": "Доля населения, пользующегося Интернетом",
+          "title": "Proportion of individuals using the Internet",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-8-1",
@@ -2015,7 +2015,7 @@
         },
         {
           "id": "17-9-1",
-          "title": "Объем финансовой и технической помощи (в том числе по линии Север — Юг, Юг — Юг и в рамках трехстороннего сотрудничества), предоставляемой развивающимся странам (в долларах США)",
+          "title": "Dollar value of financial and technical assistance (including through North-South, South‑South and triangular cooperation) committed to developing countries",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-9-1",
@@ -2023,7 +2023,7 @@
         },
         {
           "id": "17-10-1",
-          "title": "Средневзвешенный мировой уровень тарифов",
+          "title": "Worldwide weighted tariff-average",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-10-1",
@@ -2031,7 +2031,7 @@
         },
         {
           "id": "17-11-1",
-          "title": "Доля развивающихся стран и наименее развитых стран в мировом экспорте",
+          "title": "Developing countries’ and least developed countries’ share of global exports",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-11-1",
@@ -2039,7 +2039,7 @@
         },
         {
           "id": "17-12-1",
-          "title": "Средний уровень тарифов, применяемых в отношении развивающихся стран, наименее развитых стран и малых островных развивающихся государств",
+          "title": "Weighted average tariffs faced by developing countries, least developed countries and small island developing States",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-12-1",
@@ -2047,7 +2047,7 @@
         },
         {
           "id": "17-13-1",
-          "title": "Единый набор контрольных макроэкономических показателей",
+          "title": "Macroeconomic Dashboard",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-13-1",
@@ -2055,7 +2055,7 @@
         },
         {
           "id": "17-14-1",
-          "title": "Число стран, в которых созданы механизмы для повышения согласованности политики в области устойчивого развития",
+          "title": "Number of countries with mechanisms in place to enhance policy coherence of sustainable development",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-14-1",
@@ -2063,7 +2063,7 @@
         },
         {
           "id": "17-15-1",
-          "title": "Степень  использования донорами из числа участников процесса развития схем результатов и инструментов планирования, разработанных самими странами",
+          "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-15-1",
@@ -2071,7 +2071,7 @@
         },
         {
           "id": "17-16-1",
-          "title": "Число стран, сообщающих о прогрессе в деле применения механизмов контроля за эффективностью развития с участием многих заинтересованных сторон, которые служат подспорьем в достижении целей устойчивого развития",
+          "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-16-1",
@@ -2079,23 +2079,15 @@
         },
         {
           "id": "17-17-1",
-          "title": "Сумма (в долларах США), выделяемая на государственно-частные партнерства в области инфраструктуры",
+          "title": "Amount in United States dollars committed to public-private partnerships for infrastructure",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-17-1",
           "status": "notstarted"
         },
         {
-          "id": "17-18-1",
-          "title": "Показатель потенциала в области статистики для отслеживания хода достижения целей в области устойчивого развития",
-          "description": "",
-          "keywords": "",
-          "href": "/CA-SDG-Platform/ru/17-18-1",
-          "status": "notstarted"
-        },
-        {
           "id": "17-18-2",
-          "title": "Число, стран, имеющих национальное статистическое законодательство, соответствующее Основополагающим принципам официальной статистики",
+          "title": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-18-2",
@@ -2103,7 +2095,7 @@
         },
         {
           "id": "17-18-3",
-          "title": "Число стран, имеющих полностью обеспеченный финансовыми ресурсами и осуществляющийся национальный статистический план, в разбивке по источникам финансирования",
+          "title": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-18-3",
@@ -2111,7 +2103,7 @@
         },
         {
           "id": "17-19-1",
-          "title": "Стоимость  всех ресурсов, выделенных на наращивание потенциала развивающихся стран в области статистики (в долларах США)",
+          "title": "Dollar value of all resources made available to strengthen statistical capacity in developing countries",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-19-1",
@@ -2119,7 +2111,7 @@
         },
         {
           "id": "17-19-2",
-          "title": "Доля стран, которые a) провели хотя бы одну перепись населения и жилищного фонда в течение последних 10 лет; и b) достигли цели регистрации рождений в 100 процентах случаев и регистрации смерти в 80 процентах случаев",
+          "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration",
           "description": "",
           "keywords": "",
           "href": "/CA-SDG-Platform/ru/17-19-2",
